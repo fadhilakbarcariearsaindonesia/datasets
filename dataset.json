@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "last_updated": "2026-05-08",
     "author": "Fadhil Akbar Cariearsa",
     "license": "MIT",
@@ -42,12 +42,26 @@
         "Hoshi", "Aoi", "Kumo", "Suzu", "Rei", "Tora", "Mizu", "Kage", "Nova", "Kairo",
         "Haru", "Aki", "Fuyu", "Natsu", "Gin", "Kin", "Zen", "Neo", "Cyber", "Aero", 
         "Titan", "Orbis", "Luna", "Sol", "Gaia", "Chrono", "Myth", "Rune", "Byte", "Core",
-        "Bit", "Pixel", "Vector", "Apex", "Zenith", "Prism", "Echo", "Void", "Ignis", "Terra"
+        "Bit", "Pixel", "Vector", "Apex", "Zenith", "Prism", "Echo", "Void", "Ignis", "Terra",
+        "Tsuki", "Taiyo", "Kami", "Oni", "Tengu", "Sakura", "Umi", "Yama", "Mori", "Kawa", 
+        "Hono", "Kori", "Hikari", "Yami", "Chikara", "Inazuma", "Arashi", "Niji", "Suna", "Iwa", 
+        "Hagane", "Kusa", "Mura", "Machi", "Kuni", "Sekai", "Uchuu", "Ginga", "Kometto", "Quantum", 
+        "Nexus", "Synth", "Vertex", "Polygon", "Fractal", "Helix", "Voxel", "Cipher", "Matrix", 
+        "Flux", "Ion", "Proton", "Quark", "Kinetic", "Static", "Neural", "Synapse", "Omni", "Meta", 
+        "Ultra", "Hyper", "Macro", "Micro", "Nano", "Giga", "Tera", "Astro", "Stellar", "Cosmic", 
+        "Astral", "Ethereal", "Phantom", "Spectral", "Neon", "Chrome", "Cobalt", "Crimson", "Azure", 
+        "Jade", "Onyx", "Quartz", "Crystal", "Diamond"
       ],
       "suffixes": [
         "Frame", "Works", "Pictures", "Motion", "Atelier", "Factory", "Studio", "Lab", "House", "Arts", 
         "Vision", "Spark", "Forge", "Arc", "Media", "Labs", "Verse", "Craft", "Design", "Logic",
-        "Flow", "Point", "Base", "Vault", "Cell", "Link", "Sync", "Grid", "Cloud", "Front"
+        "Flow", "Point", "Base", "Vault", "Cell", "Link", "Sync", "Grid", "Cloud", "Front",
+        "Hub", "Sphere", "Node", "Network", "System", "Engine", "Interactive", "Digital", "Virtuality", 
+        "Reality", "Dimensions", "Horizons", "Frontier", "Concepts", "Solutions", "Innovations", 
+        "Ventures", "Creations", "Productions", "Entertainment", "Visuals", "Sound", "Audio", "Acoustics", 
+        "Frequency", "Wave", "Spectrum", "Pulse", "Beat", "Rhythm", "Scope", "Lens", "Focus", "Perspective", 
+        "Canvas", "Palette", "Blueprint", "Schema", "Draft", "Render", "Compile", "Code", "Script", 
+        "Data", "Stream", "Broadcast", "Transmission"
       ],
       "organization_types": [
         "Collective", "Guild", "Division", "Systems", "Prime", "Dynamics", "Global", "Network", 
