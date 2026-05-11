@@ -1,6 +1,6 @@
 Key,Value
-metadata.version,2.2.0
-metadata.last_updated,2026-05-10
+metadata.version,2.3.0
+metadata.last_updated,2026-05-11
 metadata.author,Fadhil Akbar Cariearsa
 metadata.license,MIT
 metadata.category,Japanese Fictional Names
@@ -31,6 +31,7 @@ people.full_names,Akio Yagi
 people.full_names,Akira Akiyama
 people.full_names,Akira Igarashi
 people.full_names,Akira Nakagawa
+people.full_names,Akira Suzuki
 people.full_names,Akira Taue
 people.full_names,Aoi Furukawa
 people.full_names,Aoi Kirana
@@ -42,6 +43,7 @@ people.full_names,Arisa Yamazaki
 people.full_names,Asahi Matsuda
 people.full_names,Asami Imai
 people.full_names,Asami Kondo
+people.full_names,Asami Tanaka
 people.full_names,Asami Yoshioka
 people.full_names,Asato Nakano
 people.full_names,Asuka Nakano
@@ -54,6 +56,7 @@ people.full_names,Ayaka Ito
 people.full_names,Ayaka Matsuoka
 people.full_names,Ayaka Saito
 people.full_names,Ayako Sugawara
+people.full_names,Ayame Takahashi
 people.full_names,Ayano Fujinami
 people.full_names,Ayano Hasegawa
 people.full_names,Ayano Ota
@@ -71,6 +74,7 @@ people.full_names,Ayumu Tanaka
 people.full_names,Ayumu Uchida
 people.full_names,Baku Hasegawa
 people.full_names,Banri Kudo
+people.full_names,Benjiro Ito
 people.full_names,Botan Sato
 people.full_names,Bunta Nakayama
 people.full_names,Bunzo Ikeda
@@ -78,6 +82,7 @@ people.full_names,Bunzo Takagi
 people.full_names,Chiaki Nakagawa
 people.full_names,Chidori Aoki
 people.full_names,Chieko Hirano
+people.full_names,Chieko Watanabe
 people.full_names,Chiharu Kido
 people.full_names,Chihiro Kato
 people.full_names,Chihiro Maruyama
@@ -85,6 +90,7 @@ people.full_names,Chika Fujinuma
 people.full_names,Chika Hashimoto
 people.full_names,Chika Imai
 people.full_names,Chika Kawamura
+people.full_names,Chika Kobayashi
 people.full_names,Chika Minami
 people.full_names,Chikage Hashimoto
 people.full_names,Chikara Matsumoto
@@ -95,6 +101,7 @@ people.full_names,Chiyo Kudo
 people.full_names,Chiyo Yamanaka
 people.full_names,Chizuru Takahashi
 people.full_names,Daichi Ito
+people.full_names,Daichi Nakamura
 people.full_names,Daichi Ota
 people.full_names,Daichi Takagi
 people.full_names,Daigo Abe
@@ -107,6 +114,7 @@ people.full_names,Daisuke Eguchi
 people.full_names,Daisuke Fujiwara
 people.full_names,Daisuke Hayashi
 people.full_names,Daisuke Hoshino
+people.full_names,Daisuke Kato
 people.full_names,Daisuke Nakagawa
 people.full_names,Daisuke Sugiyama
 people.full_names,Daisuke Yamaguchi
@@ -115,6 +123,7 @@ people.full_names,Eiji Arakawa
 people.full_names,Eiji Fujimoto
 people.full_names,Eiji Matsumoto
 people.full_names,Eiji Nakano
+people.full_names,Eiji Yoshida
 people.full_names,Eita Moriyama
 people.full_names,Eita Suzuki
 people.full_names,Ema Fujimoto
@@ -125,6 +134,7 @@ people.full_names,Emi Inoue
 people.full_names,Emi Mori
 people.full_names,Emi Nakajima
 people.full_names,Emi Takeda
+people.full_names,Emi Yamada
 people.full_names,Emi Yoshida
 people.full_names,Ena Kawaguchi
 people.full_names,Eriko Kagawa
@@ -144,6 +154,7 @@ people.full_names,Fumiko Hirano
 people.full_names,Fumiko Igarashi
 people.full_names,Fumiko Nakagawa
 people.full_names,Fumiko Sakurai
+people.full_names,Fumiko Sasaki
 people.full_names,Fumiya Endo
 people.full_names,Fumiya Hayashi
 people.full_names,Fumiya Kinoshita
@@ -155,6 +166,7 @@ people.full_names,Gaku Noguchi
 people.full_names,Gaku Shimizu
 people.full_names,Gaku Takahashi
 people.full_names,Genichiro Tenryu
+people.full_names,Genjiro Yamaguchi
 people.full_names,Genki Furuta
 people.full_names,Genki Matsuo
 people.full_names,Genki Yamazaki
@@ -174,6 +186,7 @@ people.full_names,Hajime Kuroda
 people.full_names,Hana Furuya
 people.full_names,Hana Imai
 people.full_names,Hana Kikuchi
+people.full_names,Hana Matsumoto
 people.full_names,Hanako Hamasaki
 people.full_names,Hanako Sano
 people.full_names,Hanako Yano
@@ -190,6 +203,7 @@ people.full_names,Haruki Arai
 people.full_names,Haruki Inoue
 people.full_names,Haruki Okada
 people.full_names,Haruko Hamada
+people.full_names,Haruko Inoue
 people.full_names,Haruko Ishida
 people.full_names,Haruko Kikuchi
 people.full_names,Haruko Takagi
@@ -206,11 +220,13 @@ people.full_names,Hayato Maeda
 people.full_names,Hayato Nomura
 people.full_names,Hayato Shibata
 people.full_names,Hibiki Kobayashi
+people.full_names,Hideaki Kimura
 people.full_names,Hideki Fujimoto
 people.full_names,Hideki Hanari
 people.full_names,Hideki Ishikawa
 people.full_names,Hideki Matsui
 people.full_names,Hideki Sakai
+people.full_names,Hideo Hayashi
 people.full_names,Hideyoshi Hara
 people.full_names,Hideyoshi Yoshikawa
 people.full_names,Hikari Hasegawa
@@ -227,6 +243,7 @@ people.full_names,Hinata Goto
 people.full_names,Hinata Igarashi
 people.full_names,Hinata Imai
 people.full_names,Hinata Ishida
+people.full_names,Hinata Shimizu
 people.full_names,Hiroaki Harada
 people.full_names,Hiroaki Iwasaki
 people.full_names,Hiroki Matsuo
@@ -238,6 +255,7 @@ people.full_names,Hiroko Higuchi
 people.full_names,Hiroko Kagawa
 people.full_names,Hiroko Nakano
 people.full_names,Hiroko Wada
+people.full_names,Hiroko Yamazaki
 people.full_names,Hiroko Yoshino
 people.full_names,Hiromu Takayama
 people.full_names,Hirooki Goto
@@ -252,11 +270,13 @@ people.full_names,Hiroto Takeuchi
 people.full_names,Hiroyoshi Tenzan
 people.full_names,Hiroyuki Fukushima
 people.full_names,Hisa Horiuchi
+people.full_names,Hisashi Ikeda
 people.full_names,Hitomi Hashimoto
 people.full_names,Hitomi Kato
 people.full_names,Hitomi Takagi
 people.full_names,Hitomi Tamura
 people.full_names,Hiyori Iki
+people.full_names,Honoka Abe
 people.full_names,Honoka Hata
 people.full_names,Honoka Hori
 people.full_names,Honoka Kawaguchi
@@ -264,6 +284,7 @@ people.full_names,Honoka Ono
 people.full_names,Honoka Ueno
 people.full_names,Ichigo Ishihara
 people.full_names,Ichigo Suzuki
+people.full_names,Ichika Hashimoto
 people.full_names,Ichiro Harada
 people.full_names,Ichiro Hattori
 people.full_names,Ichiro Ishii
@@ -279,6 +300,7 @@ people.full_names,Isamu Kawamura
 people.full_names,Isamu Nakano
 people.full_names,Isamu Sakurai
 people.full_names,Isamu Sano
+people.full_names,Isamu Yamashita
 people.full_names,Isao Kato
 people.full_names,Issei Iwata
 people.full_names,Isuzu Takeuchi
@@ -286,6 +308,7 @@ people.full_names,Itsuki Hayashi
 people.full_names,Itsuki Kawasaki
 people.full_names,Itsuki Kinoshita
 people.full_names,Itsuki Maeda
+people.full_names,Itsuki Mori
 people.full_names,Itsuki Nakagawa
 people.full_names,Itsuki Sugimoto
 people.full_names,Itsuki Watanabe
@@ -302,6 +325,7 @@ people.full_names,Jiro Abe
 people.full_names,Jiro Fujiwara
 people.full_names,Jiro Hayashida
 people.full_names,Jiro Kikuchi
+people.full_names,Jiro Ogawa
 people.full_names,Jiro Sugawara
 people.full_names,Joji Murakami
 people.full_names,Jun Akiyama
@@ -309,6 +333,7 @@ people.full_names,Jun Higuchi
 people.full_names,Jun Kimura
 people.full_names,Jun Miura
 people.full_names,Junichi Kamata
+people.full_names,Junichi Maeda
 people.full_names,Junichi Noda
 people.full_names,Junichi Ota
 people.full_names,Junichi Sakurai
@@ -320,6 +345,7 @@ people.full_names,Kaho Watanabe
 people.full_names,Kai Morino
 people.full_names,Kaito Hasegawa
 people.full_names,Kaito Himura
+people.full_names,Kaito Honda
 people.full_names,Kaito Kinoshita
 people.full_names,Kaito Kuroda
 people.full_names,Kaito Nishimura
@@ -337,6 +363,7 @@ people.full_names,Kanata Kondo
 people.full_names,Kanna Ito
 people.full_names,Kanna Katayama
 people.full_names,Kanna Matsui
+people.full_names,Kanna Murakami
 people.full_names,Kanna Otsuka
 people.full_names,Kanna Suzuki
 people.full_names,Kaori Endo
@@ -353,6 +380,7 @@ people.full_names,Katsu Kato
 people.full_names,Katsu Kondo
 people.full_names,Katsu Saito
 people.full_names,Katsu Wada
+people.full_names,Katsuki Kondo
 people.full_names,Katsuro Kimura
 people.full_names,Katsuya Hasebe
 people.full_names,Katsuya Hirose
@@ -395,6 +423,7 @@ people.full_names,Ken Koda
 people.full_names,Ken Yamashita
 people.full_names,Kengo Kurosaki
 people.full_names,Kenichi Hashimoto
+people.full_names,Kenichi Ishii
 people.full_names,Kenji Hoshikawa
 people.full_names,Kenji Ikeda
 people.full_names,Kenji Imai
@@ -404,10 +433,12 @@ people.full_names,Kenji Nakagawa
 people.full_names,Kenjiro Mori
 people.full_names,Kenjiro Yamauchi
 people.full_names,Kenma Katsura
+people.full_names,Kenshin Sakamoto
 people.full_names,Kensuke Hoshino
 people.full_names,Kensuke Masuda
 people.full_names,Kensuke Nishikawa
 people.full_names,Kenta Abe
+people.full_names,Kenta Fujii
 people.full_names,Kenta Hosokawa
 people.full_names,Kenta Kobayashi
 people.full_names,Kenta Matsubara
@@ -422,6 +453,8 @@ people.full_names,Kiyoko Ichikawa
 people.full_names,Kiyoko Kubo
 people.full_names,Kiyoko Matsui
 people.full_names,Kiyoko Yamazaki
+people.full_names,Kiyomi Endo
+people.full_names,Koharu Aoki
 people.full_names,Kohei Koyama
 people.full_names,Kohei Shimizu
 people.full_names,Kohei Takagi
@@ -445,11 +478,14 @@ people.full_names,Kotone Nishida
 people.full_names,Kotone Saito
 people.full_names,Kotone Yokoyama
 people.full_names,Kouta Kumagai
+people.full_names,Kouta Sakamoto
 people.full_names,Kumiko Iki
 people.full_names,Kumiko Matsuoka
 people.full_names,Kumiko Yamaguchi
+people.full_names,Kurumi Nakano
 people.full_names,Kyoka Izumi
 people.full_names,Kyoka Sasaki
+people.full_names,Kyoko Fujiwara
 people.full_names,Kyoko Imai
 people.full_names,Kyoko Matsushita
 people.full_names,Kyoko Minami
@@ -469,6 +505,7 @@ people.full_names,Mai Yamaguchi
 people.full_names,Maiko Kobayashi
 people.full_names,Maiko Nakayama
 people.full_names,Makoto Date
+people.full_names,Makoto Goto
 people.full_names,Makoto Inugami
 people.full_names,Makoto Kikuchi
 people.full_names,Makoto Matsumoto
@@ -509,6 +546,7 @@ people.full_names,Masao Moriyama
 people.full_names,Masaru Izumi
 people.full_names,Masaru Makino
 people.full_names,Masaru Murakami
+people.full_names,Masashi Nakajima
 people.full_names,Masato Imai
 people.full_names,Mayumi Hayashi
 people.full_names,Mayumi Inoue
@@ -528,6 +566,7 @@ people.full_names,Mei Takeda
 people.full_names,Michi Matsumura
 people.full_names,Michi Otsuka
 people.full_names,Michiko Chiba
+people.full_names,Michiko Ishihara
 people.full_names,Michiko Kamata
 people.full_names,Michiko Nakada
 people.full_names,Midori Kanda
@@ -547,6 +586,7 @@ people.full_names,Minako Kanzaki
 people.full_names,Minako Kinoshita
 people.full_names,Minako Nakamura
 people.full_names,Minato Ikeda
+people.full_names,Minato Kinoshita
 people.full_names,Minato Kurata
 people.full_names,Minato Noguchi
 people.full_names,Minato Suzuki
@@ -568,6 +608,7 @@ people.full_names,Misaki Kasuga
 people.full_names,Misaki Nakano
 people.full_names,Misaki Sano
 people.full_names,Mitsuki Mizuguchi
+people.full_names,Mitsuki Nakayama
 people.full_names,Mitsuki Onishi
 people.full_names,Mitsuko Katayama
 people.full_names,Mitsuko Nakata
@@ -578,6 +619,7 @@ people.full_names,Miwa Arai
 people.full_names,Miwa Nakayama
 people.full_names,Miyabi Morimoto
 people.full_names,Miyabi Takagi
+people.full_names,Miyako Uchida
 people.full_names,Miyoko Nishida
 people.full_names,Miyu Mori
 people.full_names,Miyu Uchida
@@ -595,6 +637,7 @@ people.full_names,Nagisa Shirata
 people.full_names,Nana Hashimoto
 people.full_names,Nana Hirata
 people.full_names,Nana Kato
+people.full_names,Nana Ota
 people.full_names,Nana Ueda
 people.full_names,Nanami Ishida
 people.full_names,Nanami Toujou
@@ -615,6 +658,7 @@ people.full_names,Naomi Oda
 people.full_names,Naomi Saito
 people.full_names,Naomi Takeuchi
 people.full_names,Naomi Yamaguchi
+people.full_names,Naoto Kubo
 people.full_names,Naoto Nakahara
 people.full_names,Naoto Ogawa
 people.full_names,Naoto Tamura
@@ -631,6 +675,7 @@ people.full_names,Natsumi Okada
 people.full_names,Nobuhiko Okazaki
 people.full_names,Nobuko Nakagawa
 people.full_names,Nobuko Okamoto
+people.full_names,Noboru Nomura
 people.full_names,Noboru Okano
 people.full_names,Nobuhiro Okazaki
 people.full_names,Nobuo Okumura
@@ -645,6 +690,7 @@ people.full_names,Norio Osada
 people.full_names,Noritaka Nakada
 people.full_names,Osamu Fujimoto
 people.full_names,Osamu Fujiwara
+people.full_names,Osamu Igarashi
 people.full_names,Osamu Kawamura
 people.full_names,Osamu Kimura
 people.full_names,Osamu Oshima
@@ -662,8 +708,8 @@ people.full_names,Rei Ota
 people.full_names,Rei Otsuka
 people.full_names,Reiko Fukuda
 people.full_names,Reiko Otsuki
-people.full_names,Ren Asuka
 people.full_names,Ren Hasegawa
+people.full_names,Ren Matsui
 people.full_names,Ren Morita
 people.full_names,Ren Nishimura
 people.full_names,Ren Saito
@@ -684,6 +730,7 @@ people.full_names,Riku Matsui
 people.full_names,Riku Yamazaki
 people.full_names,Rin Sakamoto
 people.full_names,Rina Ikeda
+people.full_names,Rina Kudo
 people.full_names,Rina Matsui
 people.full_names,Rina Nishida
 people.full_names,Rina Nishiyama
@@ -696,6 +743,7 @@ people.full_names,Risa Sakurai
 people.full_names,Ritsu Sano
 people.full_names,Ryo Kondo
 people.full_names,Ryo Seki
+people.full_names,Ryo Sugiyama
 people.full_names,Ryo Takayama
 people.full_names,Ryohei Arisu
 people.full_names,Ryohei Murakami
@@ -736,6 +784,9 @@ people.full_names,Sakurako Sone
 people.full_names,Sakurako Yamashita
 people.full_names,Saori Hashimoto
 people.full_names,Saori Sugawara
+people.full_names,Satoru Arai
+people.full_names,Satoru Mori
+people.full_names,Satoru Sugiyama
 people.full_names,Satoshi Fujinuma
 people.full_names,Satoshi Ikeda
 people.full_names,Satoshi Koike
@@ -746,8 +797,6 @@ people.full_names,Satoshi Sugimoto
 people.full_names,Satoshi Takagi
 people.full_names,Satomi Abe
 people.full_names,Satomi Sugita
-people.full_names,Satoru Mori
-people.full_names,Satoru Sugiyama
 people.full_names,Sayaka Imai
 people.full_names,Sayaka Maeda
 people.full_names,Sayaka Sugawara
@@ -774,6 +823,7 @@ people.full_names,Shingo Takagi
 people.full_names,Shinichi Oishi
 people.full_names,Shinichi Takeuchi
 people.full_names,Shinichi Yamaguchi
+people.full_names,Shinji Kikuchi
 people.full_names,Shinji Moriyama
 people.full_names,Shinji Tamura
 people.full_names,Shinji Yamada
@@ -836,6 +886,7 @@ people.full_names,Suzuko Tsukishiro
 people.full_names,Tadao Sakai
 people.full_names,Tadao Tsuruta
 people.full_names,Tadashi Uchida
+people.full_names,Taichi Hasegawa
 people.full_names,Taichi Hirano
 people.full_names,Taichi Kurosawa
 people.full_names,Taichi Nakajima
@@ -872,6 +923,7 @@ people.full_names,Takumi Inoue
 people.full_names,Takumi Nakano
 people.full_names,Takumi Nishimura
 people.full_names,Takumi Noguchi
+people.full_names,Takumi Sano
 people.full_names,Takumi Yagi
 people.full_names,Takuya Matsubara
 people.full_names,Takuya Matsuo
@@ -1004,6 +1056,7 @@ people.full_names,Yuki Miura
 people.full_names,Yuki Nakamura
 people.full_names,Yuki Noda
 people.full_names,Yuki Sakai
+people.full_names,Yuki Yokoyama
 people.full_names,Yuki Yoshimura
 people.full_names,Yukiko Ota
 people.full_names,Yukiko Yoshino
@@ -1054,6 +1107,7 @@ people.full_names,Zenjiro Shimizu
 people.full_names,Zenko Takahashi
 people.full_names,Zenta Goto
 people.full_names,Zenta Okamoto
+people.full_names,Zenzo Fukuda
 people.first_names,Ai
 people.first_names,Aika
 people.first_names,Aiko
@@ -1071,6 +1125,7 @@ people.first_names,Akina
 people.first_names,Akio
 people.first_names,Akira
 people.first_names,Amane
+people.first_names,Amaterasu
 people.first_names,Anzu
 people.first_names,Aoi
 people.first_names,Arata
@@ -1083,17 +1138,20 @@ people.first_names,Asuka
 people.first_names,Atsushi
 people.first_names,Ayaka
 people.first_names,Ayako
+people.first_names,Ayame
 people.first_names,Ayano
 people.first_names,Ayato
 people.first_names,Ayumi
 people.first_names,Ayumu
 people.first_names,Baku
 people.first_names,Banri
+people.first_names,Benjiro
 people.first_names,Botan
 people.first_names,Bunta
 people.first_names,Bunzo
 people.first_names,Chiaki
 people.first_names,Chidori
+people.first_names,Chie
 people.first_names,Chieko
 people.first_names,Chiharu
 people.first_names,Chihiro
@@ -1116,7 +1174,9 @@ people.first_names,Emi
 people.first_names,Ena
 people.first_names,Eri
 people.first_names,Eriko
+people.first_names,Etsu
 people.first_names,Etsuko
+people.first_names,Fujiko
 people.first_names,Fujio
 people.first_names,Fumi
 people.first_names,Fumie
@@ -1130,6 +1190,7 @@ people.first_names,Gaku
 people.first_names,Gen
 people.first_names,Genichiro
 people.first_names,Genji
+people.first_names,Genjiro
 people.first_names,Genki
 people.first_names,Genzo
 people.first_names,Go
@@ -1148,8 +1209,10 @@ people.first_names,Hatsune
 people.first_names,Hayate
 people.first_names,Hayato
 people.first_names,Hibiki
+people.first_names,Hideaki
 people.first_names,Hideki
 people.first_names,Hidetoshi
+people.first_names,Hideo
 people.first_names,Hideyoshi
 people.first_names,Hideyuki
 people.first_names,Hikari
@@ -1171,9 +1234,12 @@ people.first_names,Hitomi
 people.first_names,Hitoshi
 people.first_names,Hiyori
 people.first_names,Hokuto
+people.first_names,Homura
 people.first_names,Honoka
+people.first_names,Hotaka
 people.first_names,Ibuki
 people.first_names,Ichigo
+people.first_names,Ichika
 people.first_names,Ichiro
 people.first_names,Iku
 people.first_names,Iori
@@ -1192,6 +1258,7 @@ people.first_names,Junichi
 people.first_names,Junji
 people.first_names,Junko
 people.first_names,Junpei
+people.first_names,Kaede
 people.first_names,Kaho
 people.first_names,Kai
 people.first_names,Kaito
@@ -1203,6 +1270,7 @@ people.first_names,Kanon
 people.first_names,Kaori
 people.first_names,Kaoru
 people.first_names,Katsu
+people.first_names,Katsuki
 people.first_names,Katsumi
 people.first_names,Katsuo
 people.first_names,Katsuro
@@ -1228,12 +1296,14 @@ people.first_names,Kenichi
 people.first_names,Kenji
 people.first_names,Kenjiro
 people.first_names,Kenma
+people.first_names,Kenshin
 people.first_names,Kensuke
 people.first_names,Kenta
 people.first_names,Kento
 people.first_names,Kenzo
 people.first_names,Kichiro
 people.first_names,Kiyoko
+people.first_names,Kiyomi
 people.first_names,Kiyoshi
 people.first_names,Kiyotaka
 people.first_names,Kohaku
@@ -1250,6 +1320,7 @@ people.first_names,Kousei
 people.first_names,Kouta
 people.first_names,Kumiko
 people.first_names,Kunio
+people.first_names,Kurumi
 people.first_names,Kyo
 people.first_names,Kyohei
 people.first_names,Kyoichi
@@ -1304,6 +1375,7 @@ people.first_names,Mitsuo
 people.first_names,Mitsuru
 people.first_names,Miwa
 people.first_names,Miyabi
+people.first_names,Miyako
 people.first_names,Miyoko
 people.first_names,Miyu
 people.first_names,Mizuho
@@ -1524,8 +1596,10 @@ people.first_names,Zenzai
 people.last_names,Abe
 people.last_names,Adachi
 people.last_names,Akamatsu
+people.last_names,Akimoto
 people.last_names,Akiyama
 people.last_names,Amamiya
+people.last_names,Amari
 people.last_names,Andou
 people.last_names,Aoki
 people.last_names,Aoyama
@@ -1539,6 +1613,7 @@ people.last_names,Asano
 people.last_names,Asuka
 people.last_names,Ayase
 people.last_names,Baba
+people.last_names,Bando
 people.last_names,Chiba
 people.last_names,Chono
 people.last_names,Date
@@ -1562,6 +1637,7 @@ people.last_names,Goto
 people.last_names,Hamada
 people.last_names,Hamasaki
 people.last_names,Hanari
+people.last_names,Handa
 people.last_names,Hara
 people.last_names,Harada
 people.last_names,Hasebe
@@ -1572,6 +1648,7 @@ people.last_names,Hattori
 people.last_names,Hayami
 people.last_names,Hayashi
 people.last_names,Hayashida
+people.last_names,Higa
 people.last_names,Higuchi
 people.last_names,Himura
 people.last_names,Hirai
@@ -1592,9 +1669,11 @@ people.last_names,Ibushi
 people.last_names,Ichikawa
 people.last_names,Ichinose
 people.last_names,Igarashi
+people.last_names,Iida
 people.last_names,Ikeda
 people.last_names,Iki
 people.last_names,Imai
+people.last_names,Imamura
 people.last_names,Inagaki
 people.last_names,Inoue
 people.last_names,Inugami
@@ -1603,6 +1682,7 @@ people.last_names,Ishihara
 people.last_names,Ishii
 people.last_names,Ishikawa
 people.last_names,Ito
+people.last_names,Iwai
 people.last_names,Iwasaki
 people.last_names,Iwata
 people.last_names,Izumi
@@ -1636,11 +1716,11 @@ people.last_names,Kimura
 people.last_names,Kinoshita
 people.last_names,Kirana
 people.last_names,Kirishima
-people.last_names,Kimura
 people.last_names,Kitagawa
 people.last_names,Kitamura
 people.last_names,Kobayashi
 people.last_names,Koda
+people.last_names,Koga
 people.last_names,Koike
 people.last_names,Kojima
 people.last_names,Komatsu
@@ -1657,6 +1737,7 @@ people.last_names,Kuroki
 people.last_names,Kurosaki
 people.last_names,Kurosawa
 people.last_names,Kuwahara
+people.last_names,Machida
 people.last_names,Maeda
 people.last_names,Makabe
 people.last_names,Makino
@@ -1726,14 +1807,17 @@ people.last_names,Nomura
 people.last_names,Oba
 people.last_names,Oda
 people.last_names,Odagiri
+people.last_names,Ogata
 people.last_names,Ogawa
 people.last_names,Ohara
 people.last_names,Oikawa
 people.last_names,Oishi
+people.last_names,Okabe
 people.last_names,Okada
 people.last_names,Okamoto
 people.last_names,Okano
 people.last_names,Okazaki
+people.last_names,Okuda
 people.last_names,Okumura
 people.last_names,Omori
 people.last_names,Ono
@@ -1843,6 +1927,7 @@ people.last_names,Yuuki
 corporations.name_components.prefixes,Aero
 corporations.name_components.prefixes,Akari
 corporations.name_components.prefixes,Aki
+corporations.name_components.prefixes,Alpha
 corporations.name_components.prefixes,Apex
 corporations.name_components.prefixes,Arashi
 corporations.name_components.prefixes,Astra
@@ -1852,10 +1937,12 @@ corporations.name_components.prefixes,Atmosphere
 corporations.name_components.prefixes,Aurora
 corporations.name_components.prefixes,Azure
 corporations.name_components.prefixes,Basin
+corporations.name_components.prefixes,Beta
 corporations.name_components.prefixes,Borealis
 corporations.name_components.prefixes,Canyon
 corporations.name_components.prefixes,Catalyst
 corporations.name_components.prefixes,Chikara
+corporations.name_components.prefixes,Chrono
 corporations.name_components.prefixes,Cipher
 corporations.name_components.prefixes,Cobalt
 corporations.name_components.prefixes,Cosmic
@@ -1863,33 +1950,43 @@ corporations.name_components.prefixes,Crest
 corporations.name_components.prefixes,Crimson
 corporations.name_components.prefixes,Crystal
 corporations.name_components.prefixes,Cyber
+corporations.name_components.prefixes,Delta
 corporations.name_components.prefixes,Echo
 corporations.name_components.prefixes,Eclipse
+corporations.name_components.prefixes,Eco
 corporations.name_components.prefixes,Element
 corporations.name_components.prefixes,Enigma
+corporations.name_components.prefixes,Epoch
 corporations.name_components.prefixes,Equinox
+corporations.name_components.prefixes,Equis
 corporations.name_components.prefixes,Ethereal
 corporations.name_components.prefixes,Flux
 corporations.name_components.prefixes,Fractal
+corporations.name_components.prefixes,Frontier
 corporations.name_components.prefixes,Fuyu
+corporations.name_components.prefixes,Gamma
 corporations.name_components.prefixes,Giga
 corporations.name_components.prefixes,Gin
 corporations.name_components.prefixes,Ginga
 corporations.name_components.prefixes,Hagane
 corporations.name_components.prefixes,Haru
 corporations.name_components.prefixes,Helix
+corporations.name_components.prefixes,Hexa
 corporations.name_components.prefixes,Hikari
 corporations.name_components.prefixes,Hono
 corporations.name_components.prefixes,Hoshi
 corporations.name_components.prefixes,Hyper
 corporations.name_components.prefixes,Ignis
 corporations.name_components.prefixes,Inazuma
+corporations.name_components.prefixes,Infinity
 corporations.name_components.prefixes,Ion
 corporations.name_components.prefixes,Isotope
 corporations.name_components.prefixes,Iwa
 corporations.name_components.prefixes,Kage
 corporations.name_components.prefixes,Kairo
 corporations.name_components.prefixes,Kami
+corporations.name_components.prefixes,Kansai
+corporations.name_components.prefixes,Kanto
 corporations.name_components.prefixes,Kawa
 corporations.name_components.prefixes,Kaze
 corporations.name_components.prefixes,Kin
@@ -1900,6 +1997,7 @@ corporations.name_components.prefixes,Kori
 corporations.name_components.prefixes,Kumo
 corporations.name_components.prefixes,Kuni
 corporations.name_components.prefixes,Kusa
+corporations.name_components.prefixes,Kyoto
 corporations.name_components.prefixes,Legacy
 corporations.name_components.prefixes,Lumina
 corporations.name_components.prefixes,Luminous
@@ -1907,6 +2005,7 @@ corporations.name_components.prefixes,Luna
 corporations.name_components.prefixes,Machi
 corporations.name_components.prefixes,Macro
 corporations.name_components.prefixes,Matrix
+corporations.name_components.prefixes,Mecha
 corporations.name_components.prefixes,Micro
 corporations.name_components.prefixes,Mirai
 corporations.name_components.prefixes,Mizu
@@ -1921,9 +2020,12 @@ corporations.name_components.prefixes,Nebula
 corporations.name_components.prefixes,Neo
 corporations.name_components.prefixes,Neural
 corporations.name_components.prefixes,Niji
+corporations.name_components.prefixes,Nippon
+corporations.name_components.prefixes,Noto
 corporations.name_components.prefixes,Nova
 corporations.name_components.prefixes,Obelisk
 corporations.name_components.prefixes,Obscura
+corporations.name_components.prefixes,Omega
 corporations.name_components.prefixes,Omni
 corporations.name_components.prefixes,Oni
 corporations.name_components.prefixes,Orbis
@@ -1931,6 +2033,7 @@ corporations.name_components.prefixes,Orbit
 corporations.name_components.prefixes,Origin
 corporations.name_components.prefixes,Pixel
 corporations.name_components.prefixes,Plateau
+corporations.name_components.prefixes,Prime
 corporations.name_components.prefixes,Prism
 corporations.name_components.prefixes,Proton
 corporations.name_components.prefixes,Pulsar
@@ -1940,11 +2043,14 @@ corporations.name_components.prefixes,Quasar
 corporations.name_components.prefixes,Radiant
 corporations.name_components.prefixes,Rei
 corporations.name_components.prefixes,Ridge
+corporations.name_components.prefixes,Roku
 corporations.name_components.prefixes,Rune
 corporations.name_components.prefixes,Ryu
 corporations.name_components.prefixes,Sakura
 corporations.name_components.prefixes,Sekai
+corporations.name_components.prefixes,Shinkansen
 corporations.name_components.prefixes,Shiro
+corporations.name_components.prefixes,Sigma
 corporations.name_components.prefixes,Sol
 corporations.name_components.prefixes,Solstice
 corporations.name_components.prefixes,Sora
@@ -1962,39 +2068,52 @@ corporations.name_components.prefixes,Taiyo
 corporations.name_components.prefixes,Tengu
 corporations.name_components.prefixes,Tera
 corporations.name_components.prefixes,Terra
+corporations.name_components.prefixes,Theta
 corporations.name_components.prefixes,Titan
+corporations.name_components.prefixes,Tokyo
 corporations.name_components.prefixes,Tora
 corporations.name_components.prefixes,Tsuki
 corporations.name_components.prefixes,Tundra
 corporations.name_components.prefixes,Uchuu
+corporations.name_components.prefixes,Ultra
 corporations.name_components.prefixes,Umi
 corporations.name_components.prefixes,Valiant
+corporations.name_components.prefixes,Vanguard
 corporations.name_components.prefixes,Vector
 corporations.name_components.prefixes,Void
 corporations.name_components.prefixes,Voxel
 corporations.name_components.prefixes,Yama
+corporations.name_components.prefixes,Yamato
 corporations.name_components.prefixes,Yami
+corporations.name_components.prefixes,Yokohama
 corporations.name_components.prefixes,Yoru
 corporations.name_components.prefixes,Zen
 corporations.name_components.prefixes,Zenith
+corporations.name_components.prefixes,Zeta
 corporations.name_components.suffixes,Acoustics
+corporations.name_components.suffixes,Alliance
 corporations.name_components.suffixes,Analytics
 corporations.name_components.suffixes,Arc
 corporations.name_components.suffixes,Array
 corporations.name_components.suffixes,Arts
+corporations.name_components.suffixes,Associates
 corporations.name_components.suffixes,Atelier
 corporations.name_components.suffixes,Base
 corporations.name_components.suffixes,Beat
 corporations.name_components.suffixes,Blueprint
+corporations.name_components.suffixes,Branch
 corporations.name_components.suffixes,Broadcast
 corporations.name_components.suffixes,Buffer
 corporations.name_components.suffixes,Canvas
+corporations.name_components.suffixes,Center
 corporations.name_components.suffixes,Cloud
 corporations.name_components.suffixes,Cluster
 corporations.name_components.suffixes,Code
 corporations.name_components.suffixes,Compile
 corporations.name_components.suffixes,Concepts
+corporations.name_components.suffixes,Consortium
 corporations.name_components.suffixes,Core
+corporations.name_components.suffixes,Corporation
 corporations.name_components.suffixes,Craft
 corporations.name_components.suffixes,Creations
 corporations.name_components.suffixes,Data
@@ -2002,10 +2121,13 @@ corporations.name_components.suffixes,Design
 corporations.name_components.suffixes,Digital
 corporations.name_components.suffixes,Dimensions
 corporations.name_components.suffixes,Draft
+corporations.name_components.suffixes,Dynamics
 corporations.name_components.suffixes,Engine
+corporations.name_components.suffixes,Enterprise
 corporations.name_components.suffixes,Factory
 corporations.name_components.suffixes,Flow
 corporations.name_components.suffixes,Focus
+corporations.name_components.suffixes,Force
 corporations.name_components.suffixes,Forge
 corporations.name_components.suffixes,Frame
 corporations.name_components.suffixes,Frequency
@@ -2013,23 +2135,32 @@ corporations.name_components.suffixes,Front
 corporations.name_components.suffixes,Frontier
 corporations.name_components.suffixes,Gateway
 corporations.name_components.suffixes,Grid
+corporations.name_components.suffixes,Group
+corporations.name_components.suffixes,Holdings
 corporations.name_components.suffixes,House
 corporations.name_components.suffixes,Hub
+corporations.name_components.suffixes,Inc
 corporations.name_components.suffixes,Innovations
+corporations.name_components.suffixes,Institute
 corporations.name_components.suffixes,Intelligence
 corporations.name_components.suffixes,Interactive
 corporations.name_components.suffixes,Labs
 corporations.name_components.suffixes,Lens
+corporations.name_components.suffixes,Limited
 corporations.name_components.suffixes,Link
 corporations.name_components.suffixes,Logic
+corporations.name_components.suffixes,Logistics
 corporations.name_components.suffixes,Media
 corporations.name_components.suffixes,Metrics
 corporations.name_components.suffixes,Motion
+corporations.name_components.suffixes,Motors
 corporations.name_components.suffixes,Network
+corporations.name_components.suffixes,Networks
 corporations.name_components.suffixes,Nexus
 corporations.name_components.suffixes,Node
 corporations.name_components.suffixes,Orbit
 corporations.name_components.suffixes,Palette
+corporations.name_components.suffixes,Partners
 corporations.name_components.suffixes,Perspective
 corporations.name_components.suffixes,Pictures
 corporations.name_components.suffixes,Platform
@@ -2039,8 +2170,10 @@ corporations.name_components.suffixes,Protocol
 corporations.name_components.suffixes,Pulse
 corporations.name_components.suffixes,Reality
 corporations.name_components.suffixes,Render
+corporations.name_components.suffixes,Resources
 corporations.name_components.suffixes,Rhythm
 corporations.name_components.suffixes,Schema
+corporations.name_components.suffixes,Sciences
 corporations.name_components.suffixes,Scope
 corporations.name_components.suffixes,Script
 corporations.name_components.suffixes,Signal
@@ -2052,33 +2185,51 @@ corporations.name_components.suffixes,Sphere
 corporations.name_components.suffixes,Stream
 corporations.name_components.suffixes,Studio
 corporations.name_components.suffixes,Sync
+corporations.name_components.suffixes,Syndicate
 corporations.name_components.suffixes,System
+corporations.name_components.suffixes,Technologies
 corporations.name_components.suffixes,Transmission
+corporations.name_components.suffixes,Trust
+corporations.name_components.suffixes,Union
 corporations.name_components.suffixes,Vault
 corporations.name_components.suffixes,Ventures
 corporations.name_components.suffixes,Verse
 corporations.name_components.suffixes,Virtuality
 corporations.name_components.suffixes,Vision
+corporations.name_components.suffixes,Visionaries
 corporations.name_components.suffixes,Visuals
 corporations.name_components.suffixes,Wave
 corporations.name_components.suffixes,Works
+corporations.name_components.suffixes,Zone
 corporations.name_components.organization_types,Agency
 corporations.name_components.organization_types,Alliance
+corporations.name_components.organization_types,Association
+corporations.name_components.organization_types,Bank
+corporations.name_components.organization_types,Branch
 corporations.name_components.organization_types,Bureau
+corporations.name_components.organization_types,Center
 corporations.name_components.organization_types,Collective
 corporations.name_components.organization_types,Consortium
 corporations.name_components.organization_types,Corp
+corporations.name_components.organization_types,Corporation
 corporations.name_components.organization_types,Council
 corporations.name_components.organization_types,Division
 corporations.name_components.organization_types,Dynamics
+corporations.name_components.organization_types,Enterprise
 corporations.name_components.organization_types,Federation
+corporations.name_components.organization_types,Firm
 corporations.name_components.organization_types,Foundation
 corporations.name_components.organization_types,Global
 corporations.name_components.organization_types,Group
 corporations.name_components.organization_types,Guild
+corporations.name_components.organization_types,Holdings
 corporations.name_components.organization_types,Institute
+corporations.name_components.organization_types,LLC
 corporations.name_components.organization_types,League
+corporations.name_components.organization_types,Ltd
 corporations.name_components.organization_types,Network
+corporations.name_components.organization_types,PLC
+corporations.name_components.organization_types,Partnership
 corporations.name_components.organization_types,Prime
 corporations.name_components.organization_types,Society
 corporations.name_components.organization_types,Syndicate
@@ -2086,112 +2237,188 @@ corporations.name_components.organization_types,Systems
 corporations.name_components.organization_types,Trust
 corporations.name_components.organization_types,Union
 corporations.name_components.organization_types,Unit
+corporations.name_components.organization_types,Ventures
+corporations.standalone_brands,AKIHABARAX
 corporations.standalone_brands,AMATERA
 corporations.standalone_brands,ANIZEN
 corporations.standalone_brands,ANTARIS
+corporations.standalone_brands,ASIAKOM
 corporations.standalone_brands,AZUREA
+corporations.standalone_brands,DENSOTSU
 corporations.standalone_brands,ECHOIC
+corporations.standalone_brands,EDOX
+corporations.standalone_brands,FUJICOM
 corporations.standalone_brands,GENSIS
+corporations.standalone_brands,GINZATECH
+corporations.standalone_brands,HOKKAIDON
 corporations.standalone_brands,IZANAGI
+corporations.standalone_brands,JAPANCORP
 corporations.standalone_brands,JPNIME
 corporations.standalone_brands,KAIJUZEN
 corporations.standalone_brands,KAMINAMETA
+corporations.standalone_brands,KANSAISYS
+corporations.standalone_brands,KANTOTEC
 corporations.standalone_brands,KRYPTON
 corporations.standalone_brands,KYOTEX
+corporations.standalone_brands,KYUSHUX
 corporations.standalone_brands,MAPPEX
+corporations.standalone_brands,MEGANIPPON
 corporations.standalone_brands,MONOQ
+corporations.standalone_brands,NIPPOX
 corporations.standalone_brands,NIVANA
+corporations.standalone_brands,OKINAWATECH
 corporations.standalone_brands,ORIONA
+corporations.standalone_brands,OSAKAKOM
 corporations.standalone_brands,OSAKANET
 corporations.standalone_brands,POLARIS
 corporations.standalone_brands,RIGELX
 corporations.standalone_brands,RONINOS
+corporations.standalone_brands,SHIKOKUX
 corporations.standalone_brands,SHINOBIX
 corporations.standalone_brands,SHUKARI
 corporations.standalone_brands,SIRUX
 corporations.standalone_brands,SUSANO
 corporations.standalone_brands,TOKARU
+corporations.standalone_brands,TOKYOCOM
 corporations.standalone_brands,VEGAMA
 corporations.standalone_brands,VEXEL
 corporations.standalone_brands,VINIX
 corporations.standalone_brands,VORTEXA
 corporations.standalone_brands,XENON
+corporations.standalone_brands,YAMATOX
 corporations.standalone_brands,YOKAIX
+corporations.standalone_brands,YOKOHAMAX
+corporations.standalone_brands,ZAIBATSUX
 corporations.standalone_brands,ZENTRA
 corporations.agencies,Akari Elite
+corporations.agencies,Alpha Agency
 corporations.agencies,Astra Talent
+corporations.agencies,Beta Talent
+corporations.agencies,Crown Artists
+corporations.agencies,Delta Casting
+corporations.agencies,Elite Japan
 corporations.agencies,Ether Management
+corporations.agencies,Future Performers
 corporations.agencies,Gaia Artists
+corporations.agencies,Grand Stage
+corporations.agencies,Hope Management
 corporations.agencies,Hoshi Actors
 corporations.agencies,Iconic Japan
+corporations.agencies,Imperial Talent
+corporations.agencies,Japan Star
 corporations.agencies,Kaze Management
 corporations.agencies,Kumo Agency
+corporations.agencies,Kyoto Models
 corporations.agencies,Lumina Talent
 corporations.agencies,Mirai Cast
 corporations.agencies,Nami Talents
 corporations.agencies,Nexus Performers
+corporations.agencies,Nippon Talent
 corporations.agencies,Nova Stage
+corporations.agencies,Osaka Casting
 corporations.agencies,Ryu Productions
 corporations.agencies,Sora Perform
+corporations.agencies,Tokyo Actors
 corporations.agencies,Vertex Agency
+corporations.agencies,Yamato Agency
 corporations.agencies,Zenith Casting
+corporations.production_houses,Alpha Pictures
 corporations.production_houses,Aurora House
+corporations.production_houses,Beta Studio
 corporations.production_houses,Cosmic Visuals
+corporations.production_houses,Crown Visuals
+corporations.production_houses,Delta Films
+corporations.production_houses,Elite Motion
 corporations.production_houses,Ethereal Motion
+corporations.production_houses,Future Cinema
+corporations.production_houses,Grand Productions
+corporations.production_houses,Hope Films
 corporations.production_houses,Hyper Motion
+corporations.production_houses,Imperial Pictures
 corporations.production_houses,Infinity House
+corporations.production_houses,Japan Motion
 corporations.production_houses,Kage Pictures
 corporations.production_houses,Kairo Media
 corporations.production_houses,Kitsune TV
+corporations.production_houses,Kyoto Anime
 corporations.production_houses,Mirai Stream
 corporations.production_houses,Mizu Films
 corporations.production_houses,Nami Cinema
+corporations.production_houses,Nippon Studios
 corporations.production_houses,Nova Cine
+corporations.production_houses,Osaka Films
 corporations.production_houses,Quantum Cinema
 corporations.production_houses,Rei Motion
 corporations.production_houses,Retro Vision
 corporations.production_houses,Stellar Films
+corporations.production_houses,Tokyo Visuals
 corporations.production_houses,Tora Visual
+corporations.production_houses,Yamato Pictures
+media.titles,A Tale of Kyoto
 media.titles,Akatsuki Yume
 media.titles,Aoi Hoshi
+media.titles,Blade of the Ronin
 media.titles,Byakuya Kage
+media.titles,Cherry Blossom Dreams
 media.titles,Cosmic Crane
 media.titles,Crimson Kizuna
 media.titles,Crystal Kimono
 media.titles,Cyber Katana
 media.titles,Digital Haiku
+media.titles,Dragon of the East
+media.titles,Emperor's Fall
 media.titles,Eternal Zen
 media.titles,Ethereal Edo
+media.titles,Fury of the Samurai
+media.titles,Ghosts of Edo
 media.titles,Golden Ronin
 media.titles,Gravity Geisha
+media.titles,Heart of the Ninja
 media.titles,Hoshi Kizuna
 media.titles,Infinity Inari
 media.titles,Iron Bushido
+media.titles,Island of Spirits
+media.titles,Journey to Hokkaido
+media.titles,Kami and Men
 media.titles,Kokoro Ame
 media.titles,Kuroi Tsuki
 media.titles,Kyoto Wind
+media.titles,Legend of the Shogun
 media.titles,Lost Spirit
 media.titles,Lumina Lantern
 media.titles,Lunar Onmyoji
 media.titles,Midnight Yokai
 media.titles,Mirai Kaze
+media.titles,Moonlit Katana
 media.titles,Mugen Michi
 media.titles,Neon Shinobi
+media.titles,Night in Tokyo
 media.titles,Nova Ninja
 media.titles,Osaka Rain
+media.titles,Path of the Warrior
 media.titles,Pixel Samurai
 media.titles,Plasma Shogun
 media.titles,Quantum Koto
+media.titles,Rise of the Yokai
 media.titles,Seishun Namida
 media.titles,Sennen Yoru
 media.titles,Shadow Sakura
+media.titles,Shadows of Osaka
 media.titles,Silent Monogatari
 media.titles,Silver Ronin
 media.titles,Solar Kami
 media.titles,Sonic Sumo
 media.titles,Stellar Sake
+media.titles,Sun of the Empire
+media.titles,Tears of the Geisha
 media.titles,Techno Matsuri
+media.titles,The Last Samurai
+media.titles,The Ronin's Path
+media.titles,The Shogun's Blade
+media.titles,The Yokai's Curse
 media.titles,Tokyo Ghost
 media.titles,Tsuki Hikari
 media.titles,Void Walker
+media.titles,Whispers of the Shrine
+media.titles,Winds of Hokkaido
 media.titles,Yoru Sakura
