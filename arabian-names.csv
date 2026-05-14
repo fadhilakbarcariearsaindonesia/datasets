@@ -1,273 +1,614 @@
 key,value
-metadata.version,1.0.0
-metadata.last_updated,2026-05-13
+metadata.version,1.1.0
+metadata.last_updated,2026-05-14
 metadata.author,Fadhil Akbar Cariearsa
 metadata.license,MIT
 metadata.category,Arabic Fictional Names
 metadata.description,A 100% fictional and copyright-free Arabic naming dataset for universal use.
 people.full_names,Abbas Mansour
+people.full_names,Abdullah Al-Kaabi
 people.full_names,Adel Al-Fayegh
 people.full_names,Adnan Al-Tayeb
 people.full_names,Ahmad Al-Rashid
+people.full_names,Aisha Al-Hassan
 people.full_names,Akram Al-Saidi
+people.full_names,Ali Al-Mansoori
+people.full_names,Amal Al-Mutairi
+people.full_names,Amin Al-Baghdadi
 people.full_names,Amira Al-Zahrani
 people.full_names,Anas Al-Masri
 people.full_names,Anwar Al-Khatib
+people.full_names,Asad Al-Farsi
+people.full_names,Asma Al-Tamimi
+people.full_names,Aya Al-Zayani
 people.full_names,Ayman Al-Hakim
 people.full_names,Aziz Al-Nasser
+people.full_names,Baha Al-Rawi
 people.full_names,Bashar Al-Assad
 people.full_names,Bassem Al-Haddad
+people.full_names,Batoul Al-Halabi
+people.full_names,Bilal Al-Ansari
+people.full_names,Bushra Al-Kuwari
 people.full_names,Dalal Al-Maghrabi
+people.full_names,Dana Al-Jassim
+people.full_names,Danya Al-Hajri
+people.full_names,Dawoud Al-Iraqi
+people.full_names,Deema Al-Shanfari
+people.full_names,Dina Al-Subaie
+people.full_names,Diya Al-Badi
+people.full_names,Ehab Al-Rubaie
+people.full_names,Elias Al-Khouri
+people.full_names,Eman Al-Turki
 people.full_names,Fadi Al-Azzam
+people.full_names,Fadil Al-Jabri
+people.full_names,Fadwa Al-Shehhi
 people.full_names,Fahad Al-Shammari
 people.full_names,Faisal Al-Otaibi
+people.full_names,Farah Al-Awadi
 people.full_names,Farah Al-Hussein
 people.full_names,Farid Al-Atrash
 people.full_names,Fatima Al-Fahad
+people.full_names,Fouad Al-Ayoubi
+people.full_names,Ghaleb Al-Malki
+people.full_names,Ghalia Al-Busaidi
 people.full_names,Ghassan Al-Kanafani
+people.full_names,Ghazi Al-Waeli
 people.full_names,Habib Al-Zayyat
 people.full_names,Hadi Al-Amiri
 people.full_names,Hafiz Al-Sayed
+people.full_names,Hakam Al-Harthy
+people.full_names,Hala Al-Najjar
 people.full_names,Hamad Al-Khalifa
+people.full_names,Hamdan Al-Naimi
 people.full_names,Hamza Al-Ghamdi
 people.full_names,Hana Al-Safi
+people.full_names,Hanan Al-Dossari
 people.full_names,Hani Al-Qasim
+people.full_names,Hashim Al-Saadi
 people.full_names,Hassan Al-Banna
+people.full_names,Hazem Al-Bayati
+people.full_names,Heba Al-Qasimi
+people.full_names,Hilal Al-Kaabi
+people.full_names,Hind Al-Qahtani
 people.full_names,Hisham Al-Jundi
 people.full_names,Hoda Al-Shaarawi
+people.full_names,Husam Al-Saleh
 people.full_names,Hussein Al-Jasmi
 people.full_names,Ibrahim Al-Faqih
 people.full_names,Idris Al-Saeed
+people.full_names,Ihsan Al-Shahrani
+people.full_names,Ilyas Al-Mazrouei
 people.full_names,Imad Al-Din
+people.full_names,Isa Al-Mousa
 people.full_names,Ismail Al-Jazari
+people.full_names,Issam Al-Taie
+people.full_names,Iyad Al-Shamsi
 people.full_names,Jaber Al-Ahmad
 people.full_names,Jalal Al-Din
+people.full_names,Jalil Al-Omari
 people.full_names,Jamal Al-Din
+people.full_names,Jawad Al-Ghafiri
+people.full_names,Joumana Al-Zidjali
 people.full_names,Kamal Al-Ganzouri
+people.full_names,Karam Al-Fadhli
 people.full_names,Karim Al-Zaini
+people.full_names,Kasim Al-Balushi
 people.full_names,Khaled Al-Waleed
+people.full_names,Khalil Al-Husseini
 people.full_names,Laila Al-Atrash
+people.full_names,Laith Al-Yaarubi
+people.full_names,Lama Al-Ali
+people.full_names,Lana Al-Abbasi
 people.full_names,Latifa Al-Zayyat
 people.full_names,Layla Al-Fahad
+people.full_names,Leen Al-Marzouqi
+people.full_names,Lina Al-Ajmi
+people.full_names,Louay Al-Kandari
+people.full_names,Luqman Al-Sabah
+people.full_names,Maha Al-Khalidi
 people.full_names,Maher Al-Assad
 people.full_names,Mahmoud Al-Abbar
+people.full_names,Majd Al-Sanea
 people.full_names,Majid Al-Futtaim
+people.full_names,Makram Al-Jubouri
+people.full_names,Malak Al-Shabani
 people.full_names,Malek Al-Jundi
+people.full_names,Malik Al-Dabbagh
 people.full_names,Mansour Al-Nahyan
+people.full_names,Mariam Al-Suwaidi
+people.full_names,Marouane Al-Amin
+people.full_names,Marwa Al-Lami
 people.full_names,Marwan Al-Barghouti
+people.full_names,Maya Al-Nuaimi
+people.full_names,Maysoon Al-Zabi
+people.full_names,Mazen Al-Rashed
 people.full_names,Mona Al-Saber
 people.full_names,Mounir Al-Hadidi
+people.full_names,Munir Al-Zaidi
+people.full_names,Musa Al-Faraj
 people.full_names,Mustafa Al-Bakri
 people.full_names,Nabil Al-Arabi
+people.full_names,Nada Al-Asmari
 people.full_names,Nader Al-Dahabi
 people.full_names,Nadia Al-Gindi
+people.full_names,Nadine Al-Othman
+people.full_names,Nahla Al-Shukri
+people.full_names,Naim Al-Yami
 people.full_names,Najat Al-Saghira
+people.full_names,Naji Al-Saeed
+people.full_names,Najib Al-Saad
+people.full_names,Najla Al-Salem
 people.full_names,Najwa Al-Karam
 people.full_names,Naser Al-Kharafi
+people.full_names,Nassir Al-Salem
+people.full_names,Nawaf Al-Sayed
 people.full_names,Nawal Al-Zoghbi
+people.full_names,Nazim Al-Qahtani
+people.full_names,Nidal Al-Farsi
 people.full_names,Nizar Al-Qabbani
 people.full_names,Noor Al-Ghandour
+people.full_names,Ola Al-Hassan
 people.full_names,Omar Al-Mukhtar
 people.full_names,Osama Al-Azhari
+people.full_names,Othman Al-Jassim
+people.full_names,Qadir Al-Badi
 people.full_names,Qais Al-Khonji
+people.full_names,Qasim Al-Naimi
+people.full_names,Qusay Al-Kuwari
+people.full_names,Raed Al-Halabi
+people.full_names,Rafiq Al-Ansari
 people.full_names,Rami Al-Saberi
 people.full_names,Ramy Al-Ayadi
+people.full_names,Ramzi Al-Harthy
+people.full_names,Rana Al-Mansoori
 people.full_names,Randa Al-Behery
+people.full_names,Rania Al-Mutairi
+people.full_names,Rashad Al-Yaarubi
 people.full_names,Rashid Al-Maktoum
 people.full_names,Raya Al-Abirachid
+people.full_names,Rayan Al-Zaidi
 people.full_names,Reem Al-Hashimi
+people.full_names,Riad Al-Zayani
+people.full_names,Ridwan Al-Sabah
+people.full_names,Rima Al-Busaidi
+people.full_names,Riyad Al-Mazrouei
+people.full_names,Rola Al-Dossari
+people.full_names,Ruba Al-Shamsi
 people.full_names,Saad Al-Hariri
 people.full_names,Saber Al-Rebai
+people.full_names,Sabina Al-Turki
+people.full_names,Safa Al-Hajri
+people.full_names,Safwan Al-Kaabi
 people.full_names,Sahar Al-Sayegh
 people.full_names,Said Al-Mahlawi
+people.full_names,Saif Al-Omari
 people.full_names,Salah Al-Din
 people.full_names,Salem Al-Dawsari
 people.full_names,Salma Al-Majidi
+people.full_names,Samar Al-Jubouri
 people.full_names,Sami Al-Jaber
+people.full_names,Samira Al-Sanea
 people.full_names,Samir Al-Ghanem
+people.full_names,Sana Al-Qasimi
 people.full_names,Sara Al-Yafi
+people.full_names,Shatha Al-Awadi
+people.full_names,Shireen Al-Bayati
+people.full_names,Suha Al-Malki
+people.full_names,Suhair Al-Rawi
+people.full_names,Suhayl Al-Husseini
+people.full_names,Sulaiman Al-Ajmi
 people.full_names,Sultan Al-Neyadi
 people.full_names,Taha Al-Hussein
+people.full_names,Taher Al-Lami
+people.full_names,Tala Al-Fadhli
 people.full_names,Talal Al-Maddah
+people.full_names,Talib Al-Ayoubi
 people.full_names,Tamer Al-Hosny
 people.full_names,Tareq Al-Suwaidan
+people.full_names,Tariq Al-Iraqi
+people.full_names,Tawfiq Al-Zidjali
+people.full_names,Thabit Al-Shanfari
+people.full_names,Umar Al-Shehhi
+people.full_names,Usama Al-Taie
 people.full_names,Wafa Al-Kilani
+people.full_names,Waheed Al-Subaie
+people.full_names,Wajih Al-Kandari
+people.full_names,Waleed Al-Ali
 people.full_names,Walid Al-Ibrahimi
 people.full_names,Yahya Al-Fakharani
+people.full_names,Yara Al-Abbasi
+people.full_names,Yaseen Al-Balushi
 people.full_names,Yasmine Al-Masri
+people.full_names,Yasmin Al-Baghdadi
+people.full_names,Yasser Al-Khalidi
+people.full_names,Younes Al-Shahrani
 people.full_names,Youssef Al-Qaradawi
+people.full_names,Yousef Al-Nuaimi
+people.full_names,Zafar Al-Ghafiri
+people.full_names,Zahir Al-Amin
 people.full_names,Zaid Al-Rifai
+people.full_names,Zain Al-Rubaie
+people.full_names,Zakariya Al-Waeli
 people.full_names,Zaki Al-Nassif
+people.full_names,Zeina Al-Othman
 people.full_names,Ziad Al-Rahbani
+people.full_names,Zubair Al-Jabri
 people.first_names,Abbas
+people.first_names,Abdullah
 people.first_names,Adel
 people.first_names,Adnan
 people.first_names,Ahmad
+people.first_names,Aisha
 people.first_names,Akram
+people.first_names,Ali
+people.first_names,Amal
+people.first_names,Amin
 people.first_names,Amira
 people.first_names,Anas
 people.first_names,Anwar
+people.first_names,Asad
+people.first_names,Asma
+people.first_names,Aya
 people.first_names,Ayman
 people.first_names,Aziz
+people.first_names,Baha
 people.first_names,Bashar
 people.first_names,Bassem
+people.first_names,Batoul
+people.first_names,Bilal
+people.first_names,Bushra
 people.first_names,Dalal
+people.first_names,Dana
+people.first_names,Danya
+people.first_names,Dawoud
+people.first_names,Deema
+people.first_names,Dina
+people.first_names,Diya
+people.first_names,Ehab
+people.first_names,Elias
+people.first_names,Eman
 people.first_names,Fadi
+people.first_names,Fadil
+people.first_names,Fadwa
 people.first_names,Fahad
 people.first_names,Faisal
 people.first_names,Farah
 people.first_names,Farid
 people.first_names,Fatima
+people.first_names,Fouad
+people.first_names,Ghaleb
+people.first_names,Ghalia
 people.first_names,Ghassan
+people.first_names,Ghazi
 people.first_names,Habib
 people.first_names,Hadi
 people.first_names,Hafiz
+people.first_names,Hakam
+people.first_names,Hala
 people.first_names,Hamad
+people.first_names,Hamdan
 people.first_names,Hamza
 people.first_names,Hana
+people.first_names,Hanan
 people.first_names,Hani
+people.first_names,Hashim
 people.first_names,Hassan
+people.first_names,Hazem
+people.first_names,Heba
+people.first_names,Hilal
+people.first_names,Hind
 people.first_names,Hisham
 people.first_names,Hoda
+people.first_names,Husam
 people.first_names,Hussein
 people.first_names,Ibrahim
 people.first_names,Idris
+people.first_names,Ihsan
+people.first_names,Ilyas
 people.first_names,Imad
+people.first_names,Isa
 people.first_names,Ismail
+people.first_names,Issam
+people.first_names,Iyad
 people.first_names,Jaber
 people.first_names,Jalal
+people.first_names,Jalil
 people.first_names,Jamal
+people.first_names,Jawad
+people.first_names,Joumana
 people.first_names,Kamal
+people.first_names,Karam
 people.first_names,Karim
+people.first_names,Kasim
 people.first_names,Khaled
+people.first_names,Khalil
 people.first_names,Laila
+people.first_names,Laith
+people.first_names,Lama
+people.first_names,Lana
 people.first_names,Latifa
 people.first_names,Layla
+people.first_names,Leen
+people.first_names,Lina
+people.first_names,Louay
+people.first_names,Luqman
+people.first_names,Maha
 people.first_names,Maher
 people.first_names,Mahmoud
+people.first_names,Majd
 people.first_names,Majid
+people.first_names,Makram
+people.first_names,Malak
 people.first_names,Malek
+people.first_names,Malik
 people.first_names,Mansour
+people.first_names,Mariam
+people.first_names,Marouane
+people.first_names,Marwa
 people.first_names,Marwan
+people.first_names,Maya
+people.first_names,Maysoon
+people.first_names,Mazen
 people.first_names,Mona
 people.first_names,Mounir
+people.first_names,Munir
+people.first_names,Musa
 people.first_names,Mustafa
 people.first_names,Nabil
+people.first_names,Nada
 people.first_names,Nader
 people.first_names,Nadia
+people.first_names,Nadine
+people.first_names,Nahla
+people.first_names,Naim
 people.first_names,Najat
+people.first_names,Naji
+people.first_names,Najib
+people.first_names,Najla
 people.first_names,Najwa
 people.first_names,Naser
+people.first_names,Nassir
+people.first_names,Nawaf
 people.first_names,Nawal
+people.first_names,Nazim
+people.first_names,Nidal
 people.first_names,Nizar
 people.first_names,Noor
+people.first_names,Ola
 people.first_names,Omar
 people.first_names,Osama
+people.first_names,Othman
+people.first_names,Qadir
 people.first_names,Qais
+people.first_names,Qasim
+people.first_names,Qusay
+people.first_names,Raed
+people.first_names,Rafiq
 people.first_names,Rami
 people.first_names,Ramy
+people.first_names,Ramzi
+people.first_names,Rana
 people.first_names,Randa
+people.first_names,Rania
+people.first_names,Rashad
 people.first_names,Rashid
 people.first_names,Raya
+people.first_names,Rayan
 people.first_names,Reem
+people.first_names,Riad
+people.first_names,Ridwan
+people.first_names,Rima
+people.first_names,Riyad
+people.first_names,Rola
+people.first_names,Ruba
 people.first_names,Saad
 people.first_names,Saber
+people.first_names,Sabina
+people.first_names,Safa
+people.first_names,Safwan
 people.first_names,Sahar
 people.first_names,Said
+people.first_names,Saif
 people.first_names,Salah
 people.first_names,Salem
 people.first_names,Salma
+people.first_names,Samar
 people.first_names,Sami
+people.first_names,Samira
 people.first_names,Samir
+people.first_names,Sana
 people.first_names,Sara
+people.first_names,Shatha
+people.first_names,Shireen
+people.first_names,Suha
+people.first_names,Suhair
+people.first_names,Suhayl
+people.first_names,Sulaiman
 people.first_names,Sultan
 people.first_names,Taha
+people.first_names,Taher
+people.first_names,Tala
 people.first_names,Talal
+people.first_names,Talib
 people.first_names,Tamer
 people.first_names,Tareq
+people.first_names,Tariq
+people.first_names,Tawfiq
+people.first_names,Thabit
+people.first_names,Umar
+people.first_names,Usama
 people.first_names,Wafa
+people.first_names,Waheed
+people.first_names,Wajih
+people.first_names,Waleed
 people.first_names,Walid
 people.first_names,Yahya
+people.first_names,Yara
+people.first_names,Yaseen
+people.first_names,Yasmin
 people.first_names,Yasmine
+people.first_names,Yasser
+people.first_names,Younes
+people.first_names,Yousef
 people.first_names,Youssef
+people.first_names,Zafar
+people.first_names,Zahir
 people.first_names,Zaid
+people.first_names,Zain
+people.first_names,Zakariya
 people.first_names,Zaki
+people.first_names,Zeina
 people.first_names,Ziad
+people.first_names,Zubair
 people.last_names,Al-Abbar
+people.last_names,Al-Abbasi
+people.last_names,Al-Ajmi
+people.last_names,Al-Ali
+people.last_names,Al-Amin
 people.last_names,Al-Amiri
+people.last_names,Al-Ansari
 people.last_names,Al-Arabi
+people.last_names,Al-Asmari
 people.last_names,Al-Assad
 people.last_names,Al-Atrash
+people.last_names,Al-Awadi
+people.last_names,Al-Ayoubi
 people.last_names,Al-Azhari
 people.last_names,Al-Azzam
+people.last_names,Al-Badi
+people.last_names,Al-Baghdadi
 people.last_names,Al-Bakri
+people.last_names,Al-Balushi
 people.last_names,Al-Banna
 people.last_names,Al-Barghouti
+people.last_names,Al-Bayati
+people.last_names,Al-Busaidi
+people.last_names,Al-Dabbagh
 people.last_names,Al-Dahabi
 people.last_names,Al-Dawsari
 people.last_names,Al-Din
+people.last_names,Al-Dossari
+people.last_names,Al-Fadhli
 people.last_names,Al-Fahad
 people.last_names,Al-Faqih
+people.last_names,Al-Faraj
+people.last_names,Al-Farsi
 people.last_names,Al-Fayegh
 people.last_names,Al-Futtaim
 people.last_names,Al-Ganzouri
+people.last_names,Al-Ghafiri
 people.last_names,Al-Ghamdi
 people.last_names,Al-Ghandour
 people.last_names,Al-Ghanem
 people.last_names,Al-Gindi
 people.last_names,Al-Haddad
 people.last_names,Al-Hadidi
+people.last_names,Al-Hajri
 people.last_names,Al-Hakim
+people.last_names,Al-Halabi
 people.last_names,Al-Hariri
+people.last_names,Al-Harthy
 people.last_names,Al-Hashimi
+people.last_names,Al-Hassan
 people.last_names,Al-Hosny
 people.last_names,Al-Hussein
+people.last_names,Al-Husseini
 people.last_names,Al-Ibrahimi
+people.last_names,Al-Iraqi
+people.last_names,Al-Jabri
 people.last_names,Al-Jasmi
+people.last_names,Al-Jassim
 people.last_names,Al-Jazari
+people.last_names,Al-Jubouri
 people.last_names,Al-Jundi
+people.last_names,Al-Kaabi
 people.last_names,Al-Kanafani
+people.last_names,Al-Kandari
 people.last_names,Al-Karam
+people.last_names,Al-Khalidi
 people.last_names,Al-Khalifa
 people.last_names,Al-Kharafi
 people.last_names,Al-Khatib
 people.last_names,Al-Khonji
+people.last_names,Al-Khouri
 people.last_names,Al-Kilani
+people.last_names,Al-Kuwari
+people.last_names,Al-Lami
 people.last_names,Al-Maddah
 people.last_names,Al-Maghrabi
 people.last_names,Al-Mahlawi
 people.last_names,Al-Maktoum
+people.last_names,Al-Malki
+people.last_names,Al-Mansoori
+people.last_names,Al-Marzouqi
 people.last_names,Al-Masri
+people.last_names,Al-Mazrouei
+people.last_names,Al-Mousa
 people.last_names,Al-Mukhtar
+people.last_names,Al-Mutairi
 people.last_names,Al-Nahyan
+people.last_names,Al-Naimi
+people.last_names,Al-Najjar
 people.last_names,Al-Nasser
 people.last_names,Al-Nassif
 people.last_names,Al-Neyadi
+people.last_names,Al-Nuaimi
+people.last_names,Al-Omari
 people.last_names,Al-Otaibi
+people.last_names,Al-Othman
 people.last_names,Al-Qabbani
+people.last_names,Al-Qahtani
 people.last_names,Al-Qaradawi
 people.last_names,Al-Qasim
+people.last_names,Al-Qasimi
 people.last_names,Al-Rahbani
+people.last_names,Al-Rashed
 people.last_names,Al-Rashid
+people.last_names,Al-Rawi
 people.last_names,Al-Rebai
 people.last_names,Al-Rifai
+people.last_names,Al-Rubaie
+people.last_names,Al-Saad
+people.last_names,Al-Saadi
+people.last_names,Al-Sabah
 people.last_names,Al-Saber
 people.last_names,Al-Saberi
 people.last_names,Al-Saeed
 people.last_names,Al-Safi
 people.last_names,Al-Saghira
 people.last_names,Al-Saidi
-people.last_names,Al-Sayegh
+people.last_names,Al-Saleh
+people.last_names,Al-Salem
+people.last_names,Al-Sanea
 people.last_names,Al-Sayed
+people.last_names,Al-Sayegh
 people.last_names,Al-Shaarawi
+people.last_names,Al-Shabani
+people.last_names,Al-Shahrani
 people.last_names,Al-Shammari
+people.last_names,Al-Shamsi
+people.last_names,Al-Shanfari
+people.last_names,Al-Shehhi
+people.last_names,Al-Shukri
+people.last_names,Al-Subaie
 people.last_names,Al-Suwaidan
+people.last_names,Al-Suwaidi
+people.last_names,Al-Taie
+people.last_names,Al-Tamimi
 people.last_names,Al-Tayeb
+people.last_names,Al-Turki
+people.last_names,Al-Waeli
 people.last_names,Al-Waleed
+people.last_names,Al-Yaarubi
 people.last_names,Al-Yafi
+people.last_names,Al-Yami
+people.last_names,Al-Zabi
 people.last_names,Al-Zahrani
+people.last_names,Al-Zaidi
 people.last_names,Al-Zaini
+people.last_names,Al-Zayani
 people.last_names,Al-Zayyat
+people.last_names,Al-Zidjali
 people.last_names,Al-Zoghbi
 corporations.name_components.prefixes,Al-
 corporations.name_components.prefixes,Noor
