@@ -1,6 +1,6 @@
 Key,Name,Hex
-metadata.version,1.0.0,
-metadata.last_updated,2026-05-21,
+metadata.version,1.1.0,
+metadata.last_updated,2026-05-22,
 metadata.author,Fadhil Akbar Cariearsa,
 metadata.license,MIT,
 metadata.category,Color Palette,
@@ -237,3 +237,405 @@ color.brown,Kobicha,#6B4423
 color.green,Kombu Green,#354230
 color.purple,KSU Purple,#512888
 color.red,KU Crimson,#E8000D
+color.blue,Lapis Lazuli,#26619C
+color.purple,Lavender,#E6E6FA
+color.pink,Lavender Blush,#FFF0F5
+color.green,Lawn Green,#7CFC00
+color.yellow,Lemon,#FFF700
+color.yellow,Lemon Chiffon,#FFFACD
+color.blue,Light Blue,#ADD8E6
+color.pink,Light Coral,#F08080
+color.blue,Light Cyan,#E0FFFF
+color.yellow,Light Goldenrod Yellow,#FAFAD2
+color.grey,Light Gray,#D3D3D3
+color.green,Light Green,#90EE90
+color.pink,Light Pink,#FFB6C1
+color.orange,Light Salmon,#FFA07A
+color.green,Light Sea Green,#20B2AA
+color.blue,Light Sky Blue,#87CEFA
+color.grey,Light Slate Gray,#778899
+color.blue,Light Steel Blue,#B0C4DE
+color.yellow,Light Yellow,#FFFFE0
+color.purple,Lilac,#C8A2C8
+color.green,Lime,#00FF00
+color.green,Lime Green,#32CD32
+color.white,Linen,#FAF0E6
+color.brown,Liver,#534B4F
+color.orange,Macaroni and Cheese,#FFBD88
+color.purple,Magenta,#FF00FF
+color.green,Magic Mint,#AAF0D1
+color.white,Magnolia,#F8F4FF
+color.brown,Mahogany,#C04000
+color.yellow,Maize,#FBEC5D
+color.green,Malachite,#0BDA51
+color.orange,Mandarin,#F37A48
+color.orange,Mango Tango,#FF8243
+color.green,Mantis,#74C365
+color.red,Maroon,#800000
+color.purple,Mauve,#E0B0FF
+color.brown,Meat Brown,#E5B73B
+color.pink,Melon,#FDBCB4
+color.blue,Midnight Blue,#191970
+color.green,Mint,#3EB489
+color.white,Mint Cream,#F5FFFA
+color.pink,Misty Rose,#FFE4E1
+color.brown,Moccasin,#FFE4B5
+color.green,Moss Green,#8A9A5B
+color.green,Mountain Meadow,#30BA8F
+color.purple,Mulberry,#C54B8C
+color.yellow,Mustard,#FFDB58
+color.green,Myrtle Green,#317873
+color.yellow,Naples Yellow,#FADA5E
+color.brown,Navajo White,#FFDEAD
+color.blue,Navy,#000080
+color.blue,Neon Blue,#4D4DFF
+color.green,Neon Green,#39FF14
+color.blue,New Car,#214FC6
+color.grey,Nickel,#727472
+color.blue,Non-Photo Blue,#A4DDED
+color.green,Nyanza,#E9FFDB
+color.blue,Ocean Blue,#4F42B5
+color.brown,Ochre,#CC7722
+color.green,Office Green,#008000
+color.red,Old Burgundy,#43302E
+color.yellow,Old Gold,#CFB53B
+color.white,Old Lace,#FDF5E6
+color.purple,Old Lavender,#796878
+color.pink,Old Rose,#C08081
+color.grey,Old Silver,#848482
+color.green,Olive,#808000
+color.green,Olive Drab,#6B8E23
+color.green,Olivine,#9AB973
+color.black,Onyx,#353839
+color.green,Opal,#A8C3BC
+color.purple,Opera Mauve,#B784A7
+color.orange,Orange,#FFA500
+color.orange,Orange Peel,#FF9F00
+color.red,Orange Red,#FF4500
+color.purple,Orchid,#DA70D6
+color.grey,Outer Space,#414A4C
+color.orange,Outrageous Orange,#FF6E4A
+color.blue,Oxford Blue,#002147
+color.blue,Pacific Blue,#1CA9C9
+color.green,Pakistan Green,#006600
+color.purple,Palatinate Purple,#682860
+color.blue,Pale Aqua,#BCD4E6
+color.blue,Pale Blue,#AFEEEE
+color.brown,Pale Brown,#987654
+color.red,Pale Carmine,#AF4035
+color.blue,Pale Cerulean,#9BC4E2
+color.brown,Pale Chestnut,#DDADAF
+color.brown,Pale Copper,#DA8A67
+color.blue,Pale Cornflower Blue,#ABCDEF
+color.blue,Pale Cyan,#87D3F8
+color.yellow,Pale Gold,#E6BE8A
+color.yellow,Pale Goldenrod,#EEE8AA
+color.green,Pale Green,#98FB98
+color.purple,Pale Lavender,#DDA0DD
+color.purple,Pale Magenta,#F984E5
+color.pink,Pale Pink,#FADADD
+color.purple,Pale Plum,#DDA0DD
+color.purple,Pale Red Violet,#DB7093
+color.green,Pale Spring Bud,#ECEBBD
+color.brown,Pale Taupe,#BC987E
+color.purple,Pale Violet,#CC99FF
+color.purple,Pansy Purple,#78184A
+color.yellow,Papaya Whip,#FFEFD5
+color.pink,Paradise Pink,#E62020
+color.green,Paris Green,#50C878
+color.blue,Pastel Blue,#AEC6CF
+color.brown,Pastel Brown,#836953
+color.grey,Pastel Gray,#CFCFC4
+color.green,Pastel Green,#77DD77
+color.purple,Pastel Magenta,#F49AC2
+color.orange,Pastel Orange,#FFB347
+color.pink,Pastel Pink,#DEA5A4
+color.purple,Pastel Purple,#B39EB5
+color.red,Pastel Red,#FF6961
+color.yellow,Pastel Yellow,#FDFD96
+color.purple,Patriarch,#800080
+color.grey,Payne's Gray,#536872
+color.orange,Peach,#FFE5B4
+color.orange,Peach Puff,#FFDAB9
+color.green,Pear,#D1E231
+color.white,Pearl,#EAE0C8
+color.green,Pearl Aqua,#88D8C0
+color.purple,Pearly Purple,#B768A2
+color.green,Peridot,#E6E200
+color.purple,Periwinkle,#CCCCFF
+color.blue,Persian Blue,#1C39BB
+color.green,Persian Green,#00A693
+color.purple,Persian Indigo,#32127A
+color.orange,Persian Orange,#D99058
+color.pink,Persian Pink,#F77FBE
+color.red,Persian Plum,#701C1C
+color.red,Persian Red,#CC3333
+color.pink,Persian Rose,#FE28A2
+color.orange,Persimmon,#EC5800
+color.brown,Peru,#CD853F
+color.purple,Phlox,#DF00FF
+color.blue,Phthalo Blue,#000F89
+color.green,Phthalo Green,#123524
+color.green,Pine Green,#01796F
+color.pink,Pink,#FFC0CB
+color.pink,Pink Lace,#FFDDF4
+color.pink,Pink Pearl,#E7ACCF
+color.pink,Pink Sherbet,#F78FA7
+color.green,Pistachio,#93C572
+color.grey,Platinum,#E5E4E2
+color.purple,Plum,#DDA0DD
+color.red,Popstar,#BE4F62
+color.orange,Portland Orange,#FF5A36
+color.blue,Powder Blue,#B0E0E6
+color.orange,Princeton Orange,#F58025
+color.purple,Prune,#701C1C
+color.blue,Prussian Blue,#003153
+color.purple,Psychedelic Purple,#DF00FF
+color.red,Puce,#CC8899
+color.orange,Pumpkin,#FF7518
+color.purple,Purple,#800080
+color.purple,Purple Heart,#69359C
+color.purple,Purple Mountain Majesty,#9678B6
+color.purple,Purple Navy,#4E5180
+color.purple,Purple Pizzazz,#FE4EDA
+color.purple,Purple Plum,#9C51B6
+color.purple,Purpureus,#9A4EAE
+color.blue,Queen Blue,#436B95
+color.pink,Queen Pink,#E8CCD7
+color.grey,Quick Silver,#A6A6A6
+color.purple,Quinacridone Magenta,#8E3A59
+color.blue,Rackley,#5D8AA8
+color.red,Radical Red,#FF355E
+color.black,Raisin Black,#242124
+color.orange,Rajah,#FBAB60
+color.red,Raspberry,#E30B5D
+color.purple,Raspberry Glace,#915F6D
+color.pink,Raspberry Pink,#E25098
+color.pink,Raspberry Rose,#B3446C
+color.brown,Raw Sienna,#D68A59
+color.brown,Raw Umber,#826644
+color.pink,Razzle Dazzle Rose,#FF33CC
+color.red,Razzmatazz,#E3256B
+color.purple,Razzmic Berry,#8D4E85
+color.purple,Rebecca Purple,#663399
+color.red,Red,#FF0000
+color.orange,Red Orange,#FF5349
+color.purple,Red Purple,#E40078
+color.purple,Red Violet,#C71585
+color.red,Redwood,#A45A52
+color.blue,Resolution Blue,#002387
+color.purple,Rhythm,#777696
+color.black,Rich Black,#004040
+color.red,Rich Carmine,#D70040
+color.blue,Rich Electric Blue,#0892D0
+color.purple,Rich Lavender,#A76BCF
+color.purple,Rich Lilac,#B666D2
+color.red,Rich Maroon,#B03060
+color.green,Rifle Green,#444C38
+color.brown,Roast Coffee,#704241
+color.blue,Robin Egg Blue,#00CCCC
+color.grey,Rocket Metallic,#8A7F80
+color.grey,Roman Silver,#838996
+color.pink,Rose,#FF007F
+color.pink,Rose Bonbon,#F9429E
+color.pink,Rose Dust,#9E5E6F
+color.brown,Rose Ebony,#674846
+color.pink,Rose Gold,#B76E79
+color.red,Rose Madder,#E32636
+color.pink,Rose Pink,#FF66CC
+color.pink,Rose Quartz,#AA98A9
+color.red,Rose Red,#C21E56
+color.red,Rose Taupe,#905D5D
+color.red,Rose Vale,#AB4E52
+color.red,Rosewood,#65000B
+color.red,Rosso Corsa,#D40000
+color.brown,Rosy Brown,#BC8F8F
+color.blue,Royal Azure,#0038A8
+color.blue,Royal Blue,#4169E1
+color.purple,Royal Fuchsia,#CA2C92
+color.purple,Royal Purple,#7851A9
+color.red,Ruby,#E0115F
+color.red,Ruby Red,#9B111E
+color.red,Rufous,#A81C07
+color.brown,Russet,#80461B
+color.green,Russian Green,#679267
+color.purple,Russian Violet,#32174D
+color.red,Rust,#B7410E
+color.red,Rusty Red,#DA2C43
+color.green,Sacramento State Green,#00563F
+color.brown,Saddle Brown,#8B4513
+color.orange,Safety Orange,#FF7800
+color.yellow,Safety Yellow,#EED202
+color.yellow,Saffron,#F4C430
+color.green,Sage,#BCB88A
+color.orange,Salmon,#FA8072
+color.pink,Salmon Pink,#FF91A4
+color.brown,Sand,#C2B280
+color.yellow,Sandstorm,#ECD540
+color.brown,Sandy Brown,#F4A460
+color.red,Sangria,#92000A
+color.green,Sap Green,#507D2A
+color.blue,Sapphire,#0F52BA
+color.blue,Sapphire Blue,#0067A5
+color.yellow,Satin Sheen Gold,#CBA135
+color.red,Scarlet,#FF2400
+color.pink,Schauss Pink,#FF91AF
+color.yellow,School Bus Yellow,#FFD800
+color.blue,Sea Blue,#006994
+color.green,Sea Green,#2E8B57
+color.white,Seashell,#FFF5EE
+color.yellow,Selective Yellow,#FFBA00
+color.brown,Sepia,#704214
+color.brown,Shadow,#8A795D
+color.blue,Shadow Blue,#778BA5
+color.green,Shamrock Green,#009E60
+color.green,Sheen Green,#8FD400
+color.pink,Shimmering Blush,#D98695
+color.green,Shiny Shamrock,#5FA778
+color.pink,Shocking Pink,#FC0FC0
+color.brown,Sienna,#882D17
+color.grey,Silver,#C0C0C0
+color.grey,Silver Chalice,#ACACAC
+color.pink,Silver Pink,#C4AEAD
+color.grey,Silver Sand,#BFC1C2
+color.red,Sinopia,#CB410B
+color.green,Skobeloff,#007474
+color.blue,Sky Blue,#87CEEB
+color.purple,Sky Magenta,#CF71AF
+color.blue,Slate Blue,#6A5ACD
+color.grey,Slate Gray,#708090
+color.purple,Smitten,#C84186
+color.grey,Smoke,#738276
+color.red,Smokey Topaz,#832A0D
+color.black,Smoky Black,#100C08
+color.white,Snow,#FFFAFA
+color.pink,Solid Pink,#893843
+color.grey,Sonic Silver,#757575
+color.blue,Space Cadet,#1D2951
+color.brown,Spanish Bistre,#807532
+color.blue,Spanish Blue,#0070B8
+color.red,Spanish Carmine,#D10047
+color.red,Spanish Crimson,#E51A4C
+color.grey,Spanish Gray,#989898
+color.green,Spanish Green,#009150
+color.orange,Spanish Orange,#E86100
+color.pink,Spanish Pink,#F7BFBE
+color.red,Spanish Red,#E60026
+color.purple,Spanish Violet,#4C2882
+color.green,Spanish Viridian,#007F5C
+color.brown,Spicy Mix,#8B5F4D
+color.green,Spring Bud,#A7FC00
+color.green,Spring Green,#00FF7F
+color.blue,Star Command Blue,#007BB8
+color.blue,Steel Blue,#4682B4
+color.pink,Steel Pink,#CC33CC
+color.yellow,Stil de Grain Yellow,#FADA5E
+color.red,Stizza,#990000
+color.grey,Stormcloud,#4F666A
+color.yellow,Straw,#E4D96F
+color.pink,Strawberry,#FC5A8D
+color.purple,Sugar Plum,#914E75
+color.yellow,Sunray,#E3AB57
+color.orange,Sunset,#FAD6A5
+color.pink,Super Pink,#CF6BA9
+color.brown,Sweet Brown,#A83731
+color.brown,Tan,#D2B48C
+color.orange,Tangelo,#F94D00
+color.orange,Tangerine,#F28500
+color.yellow,Tangerine Yellow,#FFCC00
+color.pink,Tango Pink,#E4717A
+color.orange,Tart Orange,#FB4D46
+color.grey,Taupe,#483C32
+color.grey,Taupe Gray,#8B8589
+color.green,Tea Green,#D0F0C0
+color.pink,Tea Rose,#F4C2C2
+color.green,Teal,#008080
+color.blue,Teal Blue,#367588
+color.green,Teal Deer,#99E6B3
+color.green,Teal Green,#00827F
+color.purple,Telemagenta,#CF3476
+color.orange,Tenné,#CD5700
+color.red,Terra Cotta,#E2725B
+color.purple,Thistle,#D8BFD8
+color.pink,Thulian Pink,#DE6FA1
+color.pink,Tickle Me Pink,#FC89AC
+color.grey,Timberwolf,#DBD7D2
+color.yellow,Titanium Yellow,#EEE600
+color.red,Tomato,#FF6347
+color.blue,Toolbox,#746CC0
+color.yellow,Topaz,#FFC87C
+color.red,Tractor Red,#FD0E35
+color.grey,Trolley Grey,#808080
+color.green,Tropical Rain Forest,#00755E
+color.blue,True Blue,#0073CF
+color.blue,Tufts Blue,#3E8EDE
+color.brown,Tumbleweed,#DEAA88
+color.pink,Turkish Rose,#B57281
+color.blue,Turquoise,#40E0D0
+color.blue,Turquoise Blue,#00FFEF
+color.green,Turquoise Green,#A0D6B4
+color.red,Tuscan Red,#7C4848
+color.pink,Tuscany,#C09999
+color.purple,Twilight Lavender,#8A496B
+color.purple,Tyrian Purple,#66023C
+color.purple,Ube,#8878C3
+color.blue,Ultramarine,#3F00FF
+color.blue,Ultramarine Blue,#4166F5
+color.pink,Ultra Pink,#FF6FFF
+color.red,Ultra Red,#FC6C85
+color.brown,Umber,#635147
+color.white,Unbleached Silk,#FFDDCA
+color.blue,United Nations Blue,#5B92E5
+color.red,University Of Pennsylvania Red,#A50021
+color.yellow,Unmellow Yellow,#FFFF66
+color.green,UP Forest Green,#014421
+color.red,Upsdell Red,#AE2029
+color.yellow,Urobilin,#E1AD21
+color.blue,USAFA Blue,#004F98
+color.red,USC Cardinal,#990000
+color.red,Utah Crimson,#D3003F
+color.yellow,Vanilla,#F3E5AB
+color.pink,Vanilla Ice,#F38FA9
+color.yellow,Vegas Gold,#C5B358
+color.red,Venetian Red,#C80815
+color.green,Verdigris,#43B3AE
+color.red,Vermilion,#E34234
+color.purple,Veronica,#A020F0
+color.purple,Violet,#8F00FF
+color.blue,Violet Blue,#324AB2
+color.red,Violet Red,#F75394
+color.green,Viridian,#40826D
+color.green,Viridian Green,#009698
+color.red,Vivid Burgundy,#9F1D35
+color.blue,Vivid Sky Blue,#00CCFF
+color.orange,Vivid Tangerine,#FFA089
+color.purple,Vivid Violet,#9F00FF
+color.green,Volt,#CEFF00
+color.green,Wageningen Green,#34B233
+color.black,Warm Black,#004242
+color.blue,Waterspout,#A4F4F9
+color.brown,Wenge,#645452
+color.brown,Wheat,#F5DEB3
+color.white,White,#FFFFFF
+color.white,White Smoke,#F5F5F5
+color.blue,Wild Blue Yonder,#A2ADD0
+color.pink,Wild Orchid,#D470A2
+color.pink,Wild Strawberry,#FF43A4
+color.pink,Wild Watermelon,#FC6C85
+color.orange,Willpower Orange,#FD5800
+color.brown,Windsor Tan,#A75502
+color.red,Wine,#722F37
+color.red,Wine Dregs,#673147
+color.pink,Winter Sky,#FF007C
+color.green,Wintergreen Dream,#56887D
+color.purple,Wisteria,#C9A0DC
+color.brown,Wood Brown,#C19A6B
+color.green,Xanadu,#738678
+color.blue,Yale Blue,#0F4D92
+color.yellow,Yellow,#FFFF00
+color.green,Yellow Green,#9ACD32
+color.orange,Yellow Orange,#FFAE42
+color.blue,YInMn Blue,#2E5090
+color.blue,Zaffre,#0014A8
+color.brown,Zinnwaldite Brown,#2C1608
+color.green,Zomp,#39A78E
