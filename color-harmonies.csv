@@ -1,119 +1,349 @@
 Key,Name,Hex
-metadata.version,1.0.0,
+metadata.version,1.1.0,
 metadata.last_updated,2026-05-22,
 metadata.author,Fadhil Akbar Cariearsa,
 metadata.license,MIT,
 metadata.category,Color Harmony,
 metadata.description,A dataset of color harmonies with their official names and hex palettes.,
+harmony.monochromatic,Abyssal Depths (Monochromatic),#001F3F|#003366|#00509E|#0074D9
 harmony.analogous,Acid Lime (Analogous),#B0BF1A|#7FFF00|#32CD32
+harmony.analogous,Aero Splash (Analogous),#7CB9E8|#89CFF0|#B0E0E6
 harmony.complementary,Aegean Sunset (Complementary),#1F456E|#FF7F50
+harmony.complementary,Alabaster Contrast (Complementary),#EDEAE0|#12151F
+harmony.triadic,Alien Flora (Triadic),#39FF14|#FF1439|#1439FF
+harmony.analogous,Alpine Meadow (Analogous),#228B22|#32CD32|#00FF7F
+harmony.monochromatic,Amber Waves (Monochromatic),#FFBF00|#FFD700|#FFEA00|#FFFDD0
+harmony.complementary,Amethyst Contrast (Complementary),#9966CC|#CC9966
+harmony.triadic,Amethyst Dream (Triadic),#9966CC|#CC9966|#66CC99
 harmony.monochromatic,Amethyst Shades (Monochromatic),#4A0E4E|#800080|#9966CC|#DDA0DD
 harmony.split_complementary,Amulet (Split-Complementary),#7D9D7F|#9D7F9D|#9D7D7F
+harmony.analogous,Antique Brass Blend (Analogous),#CD9575|#D2B48C|#DEB887
+harmony.triadic,Apple Orchard (Triadic),#8DB600|#B6008D|#008DB6
+harmony.analogous,Apricot Delight (Analogous),#FBCEB1|#FFDAB9|#FFE4B5
 harmony.triadic,Aqua Bloom (Triadic),#00FFFF|#FF00FF|#FFFF00
+harmony.complementary,Aqua Coral (Complementary),#00FFFF|#FF7F50
+harmony.monochromatic,Aquamarine Dream (Monochromatic),#7FFFD4|#66CDAA|#48D1CC|#20B2AA
+harmony.tetradic,Aquamarine Splash (Tetradic),#7FFFD4|#D47FFF|#FFD47F|#7FFFD4
 harmony.tetradic,Arcade Neon (Tetradic),#FF00FF|#00FFFF|#FF0000|#00FF00
+harmony.split_complementary,Arctic Aura (Split-Complementary),#F0FFFF|#FFF0F0|#FFFFF0
 harmony.analogous,Autumn Blaze (Analogous),#CC5500|#FF8C00|#FFD700
+harmony.tetradic,Autumn Leaf (Tetradic),#8B4513|#D2691E|#556B2F|#BDB76B
+harmony.analogous,Azure Breeze (Analogous),#F0FFFF|#E0FFFF|#D0FFFF
 harmony.monochromatic,Azure Depths (Monochromatic),#003153|#007BA7|#00BFFF|#87CEEB
+harmony.complementary,Azure Flare (Complementary),#007FFF|#FF8000
+harmony.monochromatic,Baby Blue Tints (Monochromatic),#89CFF0|#ADD8E6|#B0E0E6|#E0FFFF
+harmony.analogous,Bamboo Forest (Analogous),#76B041|#8FB339|#A4C22F
+harmony.split_complementary,Banana Split (Split-Complementary),#FFE135|#3553FF|#E135FF
+harmony.tetradic,Beach House (Tetradic),#F4A460|#00CED1|#FF6347|#4682B4
+harmony.monochromatic,Beige Warmth (Monochromatic),#F5F5DC|#F7F7E3|#F9F9EA|#FBFBF1
 harmony.analogous,Berry Blend (Analogous),#8B008B|#C71585|#FF1493
+harmony.complementary,Berry Cream (Complementary),#8A2BE2|#F5DEB3
+harmony.triadic,Biohazard (Triadic),#D0FF14|#14D0FF|#FF14D0
+harmony.monochromatic,Bistre Shades (Monochromatic),#3D2B1F|#4B3621|#654321|#8B4513
+harmony.complementary,Bitter Lemon (Complementary),#CAE00D|#231FEE
+harmony.analogous,Black Cherry (Analogous),#3D0C02|#4A0404|#5C0A0A
+harmony.analogous,Black Olive Matte (Analogous),#3B3C36|#41423B|#474840
+harmony.analogous,Blazing Sun (Analogous),#FF4500|#FF8C00|#FFA500
 harmony.complementary,Blue Gold (Complementary),#0000FF|#FFD700
+harmony.monochromatic,Blue Lagoon (Monochromatic),#006994|#008B8B|#20B2AA|#48D1CC
+harmony.split_complementary,Blueberry Muffin (Split-Complementary),#4B0082|#827800|#824000
+harmony.analogous,Blush Rose (Analogous),#DE5D83|#E36B92|#E879A1
 harmony.tetradic,Bohemian Print (Tetradic),#8B0000|#00008B|#B8860B|#556B2F
 harmony.split_complementary,Bonsai Garden (Split-Complementary),#2E8B57|#8B2E5D|#8B5C2E
+harmony.tetradic,Breeze (Tetradic),#E0FFFF|#FFE0FF|#FFFFE0|#E0FFE0
+harmony.monochromatic,Bronze Age (Monochromatic),#CD7F32|#D28C47|#D7995C|#DCA671
+harmony.complementary,Bronze Contrast (Complementary),#CD7F32|#3280CD
 harmony.triadic,Bubblegum Pop (Triadic),#FFC0CB|#98FB98|#E0FFFF
+harmony.monochromatic,Burgundy Wine (Monochromatic),#800020|#8F0024|#9E0028|#AD002C
 harmony.monochromatic,Cafe Mocha (Monochromatic),#3D2B1F|#4B3621|#6F4E37|#A67B5B
 harmony.complementary,Campfire Glow (Complementary),#FF4500|#00CED1
 harmony.analogous,Candy Apple (Analogous),#FF0800|#E32636|#C41E3A
+harmony.analogous,Caribbean Sea (Analogous),#00CC99|#00E6B8|#00FFD1
+harmony.complementary,Carmine Contrast (Complementary),#960018|#00967E
+harmony.analogous,Carmine Rose (Analogous),#960018|#A3001A|#B0001C
 harmony.triadic,Carnival (Triadic),#FFD700|#DC143C|#4169E1
+harmony.analogous,Carrot Cake (Analogous),#ED9121|#F2A03D|#F7AF59
+harmony.monochromatic,Celadon Hue (Monochromatic),#ACE1AF|#BCE8C0|#CCEFD1|#DCF6E2
+harmony.triadic,Cerise Pop (Triadic),#DE3163|#63DE31|#3163DE
+harmony.monochromatic,Cerulean Skyscape (Monochromatic),#007BA7|#008EBF|#00A1D7|#00B4EF
+harmony.analogous,Champagne Toast (Analogous),#F7E7CE|#FDF5E6|#FFF8DC
 harmony.split_complementary,Cherry Blossom (Split-Complementary),#FFB7C5|#B7FFEF|#EFFFBA
+harmony.monochromatic,Chestnut Fall (Monochromatic),#954535|#A65646|#B76757|#C87868
+harmony.complementary,Chocolate Mint (Complementary),#D2691E|#3EB489
+harmony.triadic,Cinnabar Splash (Triadic),#E34234|#34E342|#4234E3
+harmony.analogous,Citrus Splash (Analogous),#FFCC00|#FFD700|#FFE600
+harmony.complementary,Cobalt Contrast (Complementary),#0047AB|#AB6400
+harmony.monochromatic,Cobalt Depths (Monochromatic),#0047AB|#0055CC|#0066EE|#0077FF
+harmony.split_complementary,Copper Patina (Split-Complementary),#B87333|#3378B8|#33B8B2
+harmony.monochromatic,Copper Sheen (Monochromatic),#B87333|#C18247|#CA915B|#D3A06F
+harmony.analogous,Coral Reef (Analogous),#FF7F50|#FF8C66|#FF997C
+harmony.tetradic,Coral Reef (Tetradic),#FF7F50|#50D0FF|#FF507F|#50FFD0
+harmony.analogous,Cornflower Blend (Analogous),#6495ED|#7A9EEF|#90A7F1
+harmony.monochromatic,Cosmic Dust (Monochromatic),#414A4C|#545E60|#677274|#7A8688
+harmony.monochromatic,Crimson Tide (Monochromatic),#DC143C|#E03254|#E4506C|#E86E84
 harmony.tetradic,Cyberpunk (Tetradic),#FF00FF|#00FFFF|#FFFF00|#0000FF
+harmony.analogous,Daisy Field (Analogous),#FAFA33|#FCE205|#FFC30B
+harmony.monochromatic,Dandelion Field (Monochromatic),#F0E130|#F2E445|#F4E75A|#F6EA6F
+harmony.analogous,Dark Forest (Analogous),#006400|#228B22|#2E8B57
+harmony.analogous,Dark Orchid (Analogous),#9932CC|#A342D1|#AD52D6
 harmony.monochromatic,Dark Shadows (Monochromatic),#100C08|#242124|#343434|#414A4C
+harmony.split_complementary,Dawn Horizon (Split-Complementary),#F58231|#31A4F5|#313EF5
 harmony.complementary,Deep Rust (Complementary),#8B3A3A|#3A8B8B
+harmony.monochromatic,Denim Fades (Monochromatic),#1560BD|#3A7ECA|#5F9DD7|#84BCE4
 harmony.analogous,Desert Sands (Analogous),#EDC9AF|#F4A460|#D2B48C
+harmony.complementary,Dim Gray Mood (Complementary),#696969|#969696
+harmony.monochromatic,Dim Gray Tones (Monochromatic),#696969|#808080|#A9A9A9|#C0C0C0
+harmony.complementary,Dodger Flare (Complementary),#1E90FF|#FF8D1E
 harmony.triadic,Dragonfruit (Triadic),#D11141|#00B159|#00AEDB
+harmony.analogous,Dusk Sky (Analogous),#483D8B|#6A5ACD|#7B68EE
 harmony.tetradic,Dynamic Brights (Tetradic),#FF1493|#00FA9A|#FF4500|#1E90FF
+harmony.analogous,Earth Tones (Analogous),#A52A2A|#8B4513|#D2691E
 harmony.analogous,Earthy Greens (Analogous),#556B2F|#6B8E23|#808000
 harmony.monochromatic,Eclipse (Monochromatic),#000000|#1A1A1A|#333333|#4D4D4D
+harmony.complementary,Eggplant Contrast (Complementary),#614051|#406150
+harmony.monochromatic,Eggplant Deep (Monochromatic),#614051|#6C475A|#774E63|#82556C
+harmony.complementary,Electric Blue Clash (Complementary),#7DF9FF|#FF7D7D
 harmony.complementary,Electric Contrast (Complementary),#7DF9FF|#FF7D7D
+harmony.monochromatic,Emerald City (Monochromatic),#50C878|#63CF89|#76D69A|#89DDAB
 harmony.split_complementary,Emerald Edge (Split-Complementary),#50C878|#C850A0|#C87850
+harmony.analogous,Emerald Hue (Analogous),#50C878|#5DCE83|#6AD48E
+harmony.triadic,Erin Bright (Triadic),#00FF40|#4000FF|#FF4000
 harmony.triadic,Evening Hue (Triadic),#483D8B|#8B483D|#3D8B48
+harmony.analogous,Evergreen Whisper (Analogous),#014421|#01572A|#016A33
+harmony.tetradic,Faded Glory (Tetradic),#4C516D|#6D4C51|#516D4C|#6D684C
+harmony.analogous,Fandango Pink (Analogous),#B53389|#BE4294|#C7519F
+harmony.monochromatic,Fawn Beige (Monochromatic),#E5AA70|#EAB783|#EFC496|#F4D1A9
+harmony.monochromatic,Fern Canopy (Monochromatic),#4F7942|#5E8951|#6D9960|#7CA96F
 harmony.analogous,Fiery Red (Analogous),#8B0000|#FF0000|#FF4500
+harmony.analogous,Firebrick Warmth (Analogous),#B22222|#C92E2E|#E03A3A
 harmony.tetradic,Flea Market (Tetradic),#C71585|#15C757|#D2691E|#1E87D2
+harmony.monochromatic,Floral White Wash (Monochromatic),#FFFAF0|#FFFBF3|#FFFCF6|#FFFDF9
 harmony.monochromatic,Forest Mist (Monochromatic),#228B22|#2E8B57|#3CB371|#8FBC8F
+harmony.complementary,Forest Shade (Complementary),#228B22|#8B228B
+harmony.tetradic,French Rose (Tetradic),#F64A8A|#8AF64A|#4A8AF6|#F6B64A
 harmony.triadic,Fresh Spring (Triadic),#00FF00|#FF0000|#0000FF
 harmony.complementary,Frosty Plum (Complementary),#DDA0DD|#A0DDA0
+harmony.triadic,Fuchsia Burst (Triadic),#FF00FF|#FFFF00|#00FFFF
+harmony.split_complementary,Fuchsia Neon (Split-Complementary),#FF00FF|#00FF80|#80FF00
+harmony.analogous,Fulvous Fall (Analogous),#E48400|#ECA000|#F4BC00
+harmony.monochromatic,Gainsboro Minimal (Monochromatic),#DCDCDC|#E1E1E1|#E6E6E6|#EBEBEB
+harmony.analogous,Galactic Purple (Analogous),#4B0082|#660099|#8000B2
+harmony.triadic,Garnet Shine (Triadic),#733635|#357336|#363573
 harmony.monochromatic,Glacial Ice (Monochromatic),#F0FFFF|#E0FFFF|#AFEEEE|#ADD8E6
+harmony.complementary,Glaucous Breeze (Complementary),#6082B6|#B69460
+harmony.monochromatic,Gold Rush (Monochromatic),#FFD700|#FFE033|#FFE966|#FFF299
+harmony.complementary,Gold Spark (Complementary),#FFD700|#0028FF
 harmony.complementary,Golden Indigo (Complementary),#FFD700|#4B0082
+harmony.analogous,Goldenrod Glow (Analogous),#DAA520|#E3B63E|#ECC75C
 harmony.analogous,Grapevine (Analogous),#4B0082|#800080|#8A2BE2
 harmony.triadic,Graphic Primary (Triadic),#E30022|#FFD700|#0047AB
+harmony.monochromatic,Green Apple (Monochromatic),#8DB600|#9FC811|#B1DA22|#C3EC33
 harmony.split_complementary,Greenery (Split-Complementary),#008000|#800040|#804000
+harmony.monochromatic,Gunmetal Grey (Monochromatic),#2A3439|#3A4449|#4A5459|#5A6469
+harmony.triadic,Harlequin Dance (Triadic),#3FFF00|#003FFF|#FF003F
+harmony.complementary,Harlequin Jump (Complementary),#3FFF00|#C000FF
 harmony.analogous,Harvest Moon (Analogous),#FFA500|#FF8C00|#FFD700
+harmony.monochromatic,Hazelnut Cream (Monochromatic),#BD8E5D|#C89D70|#D3AC83|#DEBB96
+harmony.analogous,Heliotrope Field (Analogous),#DF73FF|#E68BFF|#EDA3FF
+harmony.tetradic,Hollywood Neon (Tetradic),#F400A1|#A1F400|#00A1F4|#F45300
+harmony.monochromatic,Honeydew Drops (Monochromatic),#F0FFF0|#F2FFF2|#F4FFF4|#F6FFF6
 harmony.complementary,Hot and Cold (Complementary),#FF69B4|#B4FF69
+harmony.analogous,Hot Pink Vibe (Analogous),#FF69B4|#FF76BD|#FF83C6
+harmony.split_complementary,Hunter Contrast (Split-Complementary),#355E3B|#5E3558|#5E4135
+harmony.monochromatic,Hunter Stealth (Monochromatic),#355E3B|#436E49|#517E57|#5F8E65
 harmony.tetradic,Hypercolor (Tetradic),#FF00FF|#7FFF00|#FF4500|#00BFFF
 harmony.monochromatic,Ice Castle (Monochromatic),#F0F8FF|#E6E6FA|#B0E0E6|#ADD8E6
+harmony.split_complementary,Icterine Flash (Split-Complementary),#FCF75E|#5E63FC|#FC5EF7
 harmony.analogous,Imperial Gold (Analogous),#DAA520|#B8860B|#CD853F
+harmony.analogous,Inchworm Green (Analogous),#B2EC5D|#C0F271|#CEF885
+harmony.complementary,Indigo Deep (Complementary),#4B0082|#378200
+harmony.monochromatic,Indigo Ink (Monochromatic),#4B0082|#5A1192|#6922A2|#7833B2
 harmony.complementary,Iris Bloom (Complementary),#5A4FCF|#CFDA4F
+harmony.monochromatic,Iron Sand (Monochromatic),#4C4B46|#5E5D58|#706F6A|#82817C
+harmony.monochromatic,Irresistible Blush (Monochromatic),#B3446C|#BB577B|#C36A8A|#CB7D99
 harmony.triadic,Island Vibes (Triadic),#00FA9A|#FA0060|#6000FA
+harmony.analogous,Ivory Cream (Analogous),#FFFFF0|#FFFFF5|#FFFFFA
+harmony.monochromatic,Ivory Tower (Monochromatic),#FFFFF0|#FFFFF2|#FFFFF4|#FFFFF6
+harmony.complementary,Jade Contrast (Complementary),#00A86B|#A8003D
 harmony.monochromatic,Jade Tints (Monochromatic),#00A86B|#3EB489|#50C878|#98FB98
+harmony.analogous,Japanese Carmine (Analogous),#9D2933|#A93943|#B54953
+harmony.triadic,Jasmine Field (Triadic),#F8DE7E|#7EF8DE|#DE7EF8
+harmony.analogous,Jasmine Petal (Analogous),#F8DE7E|#F9E492|#FAEA A6
+harmony.complementary,Jasper Jewel (Complementary),#D73B3E|#3BD7D4
 harmony.tetradic,Jazz Festival (Tetradic),#9400D3|#D39400|#00D394|#D3003F
+harmony.monochromatic,Jet Black Fade (Monochromatic),#343434|#454545|#565656|#676767
 harmony.complementary,Jungle Contrast (Complementary),#29AB87|#AB294D
+harmony.triadic,Jungle Vine (Triadic),#29AB87|#8729AB|#AB8729
+harmony.analogous,Kelly Green Pitch (Analogous),#4CBB17|#5ECE29|#70E13B
+harmony.complementary,Kelly Green Pop (Complementary),#4CBB17|#8617BB
 harmony.analogous,Kelpfest (Analogous),#4A5D23|#556B2F|#6B8E23
+harmony.split_complementary,Keppel Splash (Split-Complementary),#3AB09E|#B03A4C|#B04C3A
 harmony.split_complementary,Key Lime Pie (Split-Complementary),#E8F48C|#F48CE8|#8CF498
+harmony.monochromatic,Khaki Camo (Monochromatic),#C3B091|#CEBEA2|#D9CCB3|#E4DAC4
+harmony.analogous,Khaki Dust (Analogous),#C3B091|#C8B79B|#CDA5
 harmony.monochromatic,Knight Armor (Monochromatic),#708090|#778899|#A9A9A9|#C0C0C0
+harmony.analogous,Lagoon Water (Analogous),#006994|#007BA7|#008CBA
+harmony.monochromatic,Lapis Jewel (Monochromatic),#26619C|#3873AE|#4A85C0|#5C97D2
 harmony.monochromatic,Lavender Fields (Monochromatic),#E6E6FA|#D8BFD8|#DDA0DD|#EE82EE
+harmony.triadic,Lawn Green Fresh (Triadic),#7CFC00|#007CFC|#FC007C
+harmony.monochromatic,Lemon Drop (Monochromatic),#FFF700|#FFF819|#FFF932|#FFFA4B
 harmony.analogous,Lemon Lime (Analogous),#FFFF00|#ADFF2F|#00FF00
+harmony.monochromatic,Light Blue Sky (Monochromatic),#ADD8E6|#BCE1EC|#CBEAF2|#DAF3F8
 harmony.complementary,Lilac and Lime (Complementary),#C8A2C8|#A2C8A2
+harmony.analogous,Lilac Softness (Analogous),#C8A2C8|#CDACCD|#D2B6D2
+harmony.triadic,Lime Splash (Triadic),#00FF00|#FF0000|#0000FF
 harmony.triadic,Lively Pastel (Triadic),#FFB6C1|#B6FFC1|#C1B6FF
+harmony.analogous,Lollipop Pink (Analogous),#FF007F|#FF1493|#FF69B4
+harmony.analogous,Macaroni Cheese (Analogous),#FFBD88|#FFC799|#FFD1AA
 harmony.tetradic,Macaw Feathers (Tetradic),#FF0000|#00FF00|#0000FF|#FFFF00
 harmony.analogous,Magenta Glow (Analogous),#8B008B|#FF00FF|#FF1493
+harmony.complementary,Magenta Pulse (Complementary),#FF00FF|#00FF00
+harmony.monochromatic,Mahogany Desk (Monochromatic),#C04000|#CD5011|#DA6022|#E77033
+harmony.analogous,Malachite Green (Analogous),#0BDA51|#1ADD5C|#29E067
 harmony.split_complementary,Mango Split (Split-Complementary),#FF8243|#4382FF|#43C0FF
+harmony.tetradic,Marigold Bloom (Tetradic),#EAA221|#21EAA2|#A221EA|#EA216A
+harmony.monochromatic,Maroon Depths (Monochromatic),#800000|#911111|#A22222|#B33333
+harmony.triadic,Maroon Shadows (Triadic),#800000|#008000|#000080
+harmony.analogous,Mauve Touch (Analogous),#E0B0FF|#E7C2FF|#EED4FF
 harmony.monochromatic,Midnight Sea (Monochromatic),#191970|#000080|#00008B|#0000CD
 harmony.complementary,Minty Rose (Complementary),#3EB489|#B43E69
+harmony.monochromatic,Moccasin Path (Monochromatic),#FFE4B5|#FFEAC4|#FFF0D3|#FFF6E2
+harmony.complementary,Mustard Seed (Complementary),#FFDB58|#587CFF
+harmony.monochromatic,Naples Yellow Warmth (Monochromatic),#FADA5E|#FBDE6E|#FCE27E|#FDE68E
 harmony.triadic,Nature's Core (Triadic),#8B4513|#138B45|#45138B
+harmony.monochromatic,Navy Command (Monochromatic),#000080|#000099|#0000B3|#0000CC
+harmony.complementary,Navy Deep (Complementary),#000080|#808000
+harmony.triadic,Neon Blue Strike (Triadic),#4D4DFF|#FF4D4D|#4DFF4D
 harmony.complementary,Neon Clash (Complementary),#39FF14|#DA14FF
+harmony.triadic,Neon Green Burst (Triadic),#39FF14|#1439FF|#FF1439
 harmony.monochromatic,Nightfall (Monochromatic),#2F4F4F|#483D8B|#48D1CC
 harmony.analogous,Northern Lights (Analogous),#00FFFF|#00FA9A|#00FF7F
+harmony.analogous,Nyanza Mint (Analogous),#E9FFDB|#EEFFE3|#F3FFEB
 harmony.monochromatic,Ocean Waves (Monochromatic),#006994|#007BA7|#00BFFF|#87CEEB
+harmony.monochromatic,Ochre Dust (Monochromatic),#CC7722|#D68533|#E09344|#EAA155
+harmony.tetradic,Old Gold Coin (Tetradic),#CFB53B|#3BCFB5|#B53BCF|#CF553B
+harmony.analogous,Old Lace Soft (Analogous),#FDF5E6|#FEF7EB|#FEF9F0
 harmony.complementary,Olive and Magenta (Complementary),#808000|#800080
+harmony.triadic,Olive Branch (Triadic),#808000|#008080|#800080
+harmony.monochromatic,Onyx Stone (Monochromatic),#353839|#454849|#555859|#656869
+harmony.monochromatic,Orange Peel (Monochromatic),#FF9F00|#FFA919|#FFB332|#FFBD4B
 harmony.analogous,Orange Sunset (Analogous),#FF8C00|#FFA500|#FFD700
+harmony.analogous,Orchid Whisper (Analogous),#DA70D6|#E282DF|#EA94E8
 harmony.tetradic,Outrun (Tetradic),#FF00FF|#00FFFF|#191970|#FFB6C1
+harmony.monochromatic,Pacific Blue Wave (Monochromatic),#1CA9C9|#2DB6D6|#3EC3E3|#4FD0F0
 harmony.triadic,Paintbox (Triadic),#E32636|#FADA5E|#007BA7
+harmony.monochromatic,Pale Aqua Mist (Monochromatic),#BCD4E6|#C8DEEE|#D4E8F6|#E0F2FE
+harmony.complementary,Pale Pink Blush (Complementary),#FADADD|#DAFAEF
+harmony.complementary,Pansy Purple Hue (Complementary),#78184A|#187846
+harmony.analogous,Papaya Smooth (Analogous),#FFEFD5|#FFF2DD|#FFF5E5
+harmony.split_complementary,Paris Green Art (Split-Complementary),#50C878|#C850A0|#C87850
+harmony.monochromatic,Patriarch Royal (Monochromatic),#800080|#8F118F|#9E229E|#AD33AD
+harmony.monochromatic,Peach Puff Tone (Monochromatic),#FFDAB9|#FFDEC2|#FFE2CB|#FFE6D4
 harmony.analogous,Peachy Keen (Analogous),#FFDAB9|#FFA07A|#FA8072
 harmony.split_complementary,Peacock Plume (Split-Complementary),#008080|#800020|#804000
+harmony.analogous,Peridot Gem (Analogous),#E6E200|#EBE81F|#F0ED3E
+harmony.triadic,Periwinkle Dream (Triadic),#CCCCFF|#FFCCCC|#CCFFCC
+harmony.monochromatic,Persian Pink Soft (Monochromatic),#F77FBE|#F88EC6|#F99DCE|#FAACD6
+harmony.split_complementary,Phlox Bright (Split-Complementary),#DF00FF|#20FF00|#00DFFF
+harmony.analogous,Pistachio Shell (Analogous),#93C572|#9EC980|#A9CD8E
 harmony.monochromatic,Plum Velvet (Monochromatic),#8B008B|#9932CC|#BA55D3|#DDA0DD
 harmony.complementary,Poison Apple (Complementary),#7FFF00|#FF007F
+harmony.monochromatic,Powder Blue Sky (Monochromatic),#B0E0E6|#BBE6EC|#C6ECF2|#D1F2F8
+harmony.analogous,Pumpkin Patch (Analogous),#FF7518|#FF8630|#FF9748
 harmony.monochromatic,Quartz Tones (Monochromatic),#51414F|#AA98A9|#D8BFD8|#E6E6FA
+harmony.analogous,Queen Pink Blush (Analogous),#E8CCD7|#ECD5DF|#F0DEE7
 harmony.complementary,Queen's Velvet (Complementary),#800080|#808000
+harmony.monochromatic,Quick Silver Dash (Monochromatic),#A6A6A6|#B3B3B3|#C0C0C0|#CDCDCD
+harmony.analogous,Quick Silver Tone (Analogous),#A6A6A6|#ADADAD|#B4B4B4
 harmony.triadic,Quirky Brights (Triadic),#FF4500|#00FF45|#4500FF
+harmony.complementary,Radical Red Pop (Complementary),#FF355E|#35FFD6
 harmony.tetradic,Rainbow Dash (Tetradic),#FF0000|#00FF00|#0000FF|#FFFF00
+harmony.triadic,Raspberry Glace (Triadic),#915F6D|#6D915F|#5F6D91
 harmony.analogous,Raspberry Sherbet (Analogous),#E30B5D|#FF1493|#FF69B4
+harmony.split_complementary,Razzmatazz Vibe (Split-Complementary),#E3256B|#6BE325|#256BE3
 harmony.monochromatic,Red Alert (Monochromatic),#8B0000|#B22222|#DC143C|#FF0000
+harmony.monochromatic,Redwood Forest (Monochromatic),#A45A52|#AD6A63|#B67A74|#BF8A85
+harmony.monochromatic,Rich Black Void (Monochromatic),#004040|#005555|#006A6A|#008080
 harmony.split_complementary,Rose Gold Flare (Split-Complementary),#B76E79|#6EB7AC|#6E92B7
+harmony.complementary,Rose Gold Touch (Complementary),#B76E79|#6EB7AC
+harmony.analogous,Rosy Brown Warmth (Analogous),#BC8F8F|#C29B9B|#C8A7A7
+harmony.monochromatic,Royal Azure Deep (Monochromatic),#0038A8|#0047BA|#0056CC|#0065DE
+harmony.triadic,Ruby Red Shine (Triadic),#9B111E|#1E9B11|#111E9B
 harmony.complementary,Rustic Contrast (Complementary),#8B4513|#13598B
+harmony.analogous,Rusty Red Fall (Analogous),#DA2C43|#DF4155|#E45667
+harmony.analogous,Saffron Spice (Analogous),#F4C430|#F6CB48|#F8D260
+harmony.tetradic,Salmon Pink Pop (Tetradic),#FF91A4|#91FFAE|#A4FF91|#FF91F2
 harmony.monochromatic,Sandy Shores (Monochromatic),#F4A460|#DEB887|#D2B48C|#F5DEB3
+harmony.tetradic,Sapphire Glow (Tetradic),#0F52BA|#BA770F|#52BA0F|#BA0F52
+harmony.analogous,Sapphire Stone (Analogous),#0F52BA|#1D5EC2|#2B6ACA
 harmony.analogous,Sea Glass (Analogous),#20B2AA|#48D1CC|#40E0D0
+harmony.monochromatic,Seashell Shore (Monochromatic),#FFF5EE|#FFF7F2|#FFF9F6|#FFFBFA
+harmony.monochromatic,Sepia Tone (Monochromatic),#704214|#805123|#906032|#A06F41
+harmony.split_complementary,Shamrock Bright (Split-Complementary),#009E60|#9E003E|#9E6000
+harmony.complementary,Shocking Pink Flash (Complementary),#FC0FC0|#0FFC4B
+harmony.analogous,Silver Sand Dune (Analogous),#BFC1C2|#C6C8C9|#CDCFD0
+harmony.complementary,Sky Blue Air (Complementary),#87CEEB|#EB87CE
+harmony.monochromatic,Sky Blue Clarity (Monochromatic),#87CEEB|#95D5EE|#A3DCF1|#B1E3F4
 harmony.split_complementary,Soft Succulent (Split-Complementary),#8F9779|#97798F|#978179
 harmony.complementary,Solar Flare (Complementary),#FF4500|#00BAFF
+harmony.triadic,Spanish Crimson (Triadic),#E51A4C|#4CE51A|#1A4CE5
 harmony.triadic,Spring Bouquet (Triadic),#FF69B4|#69B4FF|#B4FF69
 harmony.tetradic,Starlight (Tetradic),#F0F8FF|#FFF0F8|#F8FFF0|#F0E6FF
+harmony.monochromatic,Steel Blue Core (Monochromatic),#4682B4|#558EBC|#649AC4|#73A6CC
+harmony.analogous,Sunset Glow (Analogous),#FAD6A5|#FBDCB2|#FCE2BF
+harmony.tetradic,Sweet Brown Sugar (Tetradic),#A83731|#31A837|#31A2A8|#A831A2
 harmony.analogous,Tangerine Dream (Analogous),#FF4500|#FF8C00|#FFA500
+harmony.monochromatic,Taupe Gray Shade (Monochromatic),#8B8589|#979195|#A39DA1|#AFA9AD
+harmony.monochromatic,Teal Deer Range (Monochromatic),#99E6B3|#A3E8BB|#ADEBC3|#B7EDCB
 harmony.monochromatic,Teal Depths (Monochromatic),#008080|#008B8B|#20B2AA|#48D1CC
+harmony.analogous,Thistle Calm (Analogous),#D8BFD8|#DCDCD8|#D8D8BF
+harmony.split_complementary,Thistle Field (Split-Complementary),#D8BFD8|#D8D8BF|#BFD8D8
+harmony.triadic,Tomato Red Spice (Triadic),#FF6347|#47FF63|#6347FF
+harmony.analogous,Tomato Soup (Analogous),#FF6347|#FF735A|#FF836D
+harmony.triadic,Topaz Twinkle (Triadic),#FFC87C|#7CFFC8|#C87CFF
 harmony.complementary,Tropical Clash (Complementary),#FF1493|#14FF80
+harmony.monochromatic,True Blue Spirit (Monochromatic),#0073CF|#0081DF|#008FEF|#009DFF
 harmony.tetradic,Tulip Garden (Tetradic),#FF0000|#FFFF00|#00FF00|#800080
+harmony.analogous,Turquoise Splash (Analogous),#40E0D0|#53E4D6|#66E8DC
 harmony.triadic,Twilight Zone (Triadic),#483D8B|#8B483D|#3D8B48
+harmony.complementary,Ube Dessert (Complementary),#8878C3|#B3C378
 harmony.complementary,Ultramarine Flash (Complementary),#3F00FF|#FFC000
+harmony.analogous,Umber Earth (Analogous),#635147|#69574D|#6F5D53
 harmony.monochromatic,Umber Scales (Monochromatic),#635147|#826644|#A67B5B|#C19A6B
+harmony.split_complementary,Unmellow Yellow (Split-Complementary),#FFFF66|#6666FF|#FF66FF
 harmony.split_complementary,Urban Decay (Split-Complementary),#4F666A|#6A4F4F|#6A5A4F
 harmony.analogous,Vampire Night (Analogous),#4B0082|#800000|#8B008B
+harmony.monochromatic,Vanilla Cream (Monochromatic),#F3E5AB|#F5E8B7|#F7EBC3|#F9EECF
+harmony.analogous,Vanilla Ice Cream (Analogous),#F38FA9|#F59EB4|#F7ADBF
+harmony.triadic,Venetian Red Clay (Triadic),#C80815|#15C808|#0815C8
+harmony.analogous,Verdigris Copper (Analogous),#43B3AE|#53BABB|#63C1C8
 harmony.triadic,Vibrant Palette (Triadic),#FF00FF|#00FF00|#0000FF
 harmony.monochromatic,Vintage Sepia (Monochromatic),#704214|#8B4513|#A0522D|#CD853F
+harmony.tetradic,Violet Glow (Tetradic),#8F00FF|#70FF00|#00FF8F|#FF0070
 harmony.complementary,Violet Sun (Complementary),#8A2BE2|#E28A2B
+harmony.monochromatic,Viridian Green Moss (Monochromatic),#009698|#00A3A5|#00B0B2|#00BDBD
+harmony.split_complementary,Vivid Sky Blue (Split-Complementary),#00CCFF|#FF0033|#FF9900
 harmony.monochromatic,Warm Cocoa (Monochromatic),#3D2B1F|#4B3621|#6F4E37|#D2691E
 harmony.complementary,Watermelon (Complementary),#FC6C85|#85FC6C
+harmony.analogous,Wheat Field (Analogous),#F5DEB3|#F6E2BC|#F7E6C5
+harmony.complementary,Wheat Field Warm (Complementary),#F5DEB3|#B3CAF5
+harmony.monochromatic,White Smoke Mist (Monochromatic),#F5F5F5|#F7F7F7|#F9F9F9|#FBFBFB
+harmony.triadic,White Smoke Puff (Triadic),#F5F5F5|#F5F5F5|#F5F5F5
+harmony.triadic,Wild Orchid Charm (Triadic),#D470A2|#A2D470|#70A2D4
+harmony.split_complementary,Windsor Tan Leather (Split-Complementary),#A75502|#0254A7|#02A755
 harmony.analogous,Winter Chill (Analogous),#00FFFF|#E0FFFF|#F0FFFF
+harmony.tetradic,Wisteria Vine (Tetradic),#C9A0DC|#DCC9A0|#A0DCC9|#A0C9DC
 harmony.tetradic,Woodland Magic (Tetradic),#228B22|#8B2222|#22228B|#8B8B22
 harmony.complementary,Xanadu Contrast (Complementary),#738678|#867381
 harmony.monochromatic,Xeric Earth (Monochromatic),#C2B280|#D2B48C|#DEB887|#F5DEB3
 harmony.analogous,Yellow Brick Road (Analogous),#FFD700|#FFFF00|#FAFAD2
+harmony.complementary,Yellow Green Flash (Complementary),#9ACD32|#6532CD
+harmony.analogous,Yellow Orange Pop (Analogous),#FFAE42|#FFB755|#FFC068
 harmony.complementary,Yin Yang Blue (Complementary),#0014A8|#A89400
 harmony.triadic,Youthful Energy (Triadic),#FF007F|#7FFF00|#007FFF
+harmony.monochromatic,Zaffre Blue Deep (Monochromatic),#0014A8|#0017C1|#001ADA|#001DF3
+harmony.triadic,Zaffre Strike (Triadic),#0014A8|#A80014|#14A800
 harmony.split_complementary,Zen Garden (Split-Complementary),#8FBC8F|#BC8F9C|#BC9F8F
 harmony.analogous,Zesty Citrus (Analogous),#FF8C00|#FFA500|#FFFF00
 harmony.monochromatic,Zinc Tones (Monochromatic),#727472|#848482|#A6A6A6|#DCDCDC
+harmony.complementary,Zomp Green (Complementary),#39A78E|#A73952
