@@ -1,10 +1,10 @@
 Key,Name,Hex
-metadata.version,1.1.0,
-metadata.last_updated,2026-05-22,
+metadata.version,1.2.0,
+metadata.last_updated,2026-05-23,
 metadata.author,Fadhil Akbar Cariearsa,
 metadata.license,MIT,
 metadata.category,Color Palette,
-metadata.description,A dataset of over 200 standard colors with their official names and the hex codes.,
+metadata.description,A data set containing derived colors along with their official names and hexadecimal codes.,
 color.blue,Absolute Zero,#0048BA
 color.green,Acid Green,#B0BF1A
 color.blue,Aero,#7CB9E8
@@ -12,13 +12,17 @@ color.purple,African Violet,#B284BE
 color.blue,Air Superiority Blue,#72A0C1
 color.white,Alabaster,#EDEAE0
 color.blue,Alice Blue,#F0F8FF
+color.red,Alizarin Crimson,#E32636
 color.orange,Alloy Orange,#C46210
 color.brown,Almond,#EFDECD
+color.brown,Almond Frost,#907B71
 color.red,Amaranth,#E52B50
 color.pink,Amaranth Pink,#F19CBB
 color.purple,Amaranth Purple,#AB274F
 color.green,Amazon,#3B7A57
+color.green,Amazon Green,#7B9A6D
 color.yellow,Amber,#FFBF00
+color.yellow,Amber Glow,#FFBF00
 color.purple,Amethyst,#9966CC
 color.brown,Antique Brass,#CD9575
 color.brown,Antique Bronze,#665D1E
@@ -26,31 +30,56 @@ color.purple,Antique Fuchsia,#915C83
 color.red,Antique Ruby,#841B2D
 color.white,Antique White,#FAEBD7
 color.green,Apple Green,#8DB600
+color.blue,Appletini,#8CBED6
 color.orange,Apricot,#FBCEB1
 color.blue,Aqua,#00FFFF
 color.green,Aquamarine,#7FFFD4
+color.blue,Arctic Blue,#D6E6F0
 color.green,Arctic Lime,#D0FF14
 color.green,Artichoke,#8F9779
 color.yellow,Arylide Yellow,#E9D66B
+color.brown,Ash Brown,#B2BEB5
 color.grey,Ash Gray,#B2BEB5
 color.green,Asparagus,#87A96B
+color.pink,Atomic Pink,#FF99CC
 color.orange,Atomic Tangerine,#FF9966
 color.brown,Auburn,#A52A2A
 color.yellow,Aureolin,#FDEE00
 color.green,Avocado,#568203
+color.yellow,Aztec Gold,#C39953
 color.blue,Azure,#F0FFFF
 color.blue,Baby Blue,#89CFF0
 color.pink,Baby Pink,#F4C2C2
 color.white,Baby Powder,#FEFEFA
+color.purple,Baby Purple,#CA9BF7
+color.blue,Bahama Blue,#026395
 color.pink,Baker-Miller Pink,#FF91AF
+color.grey,Baltic Sea,#2A2630
+color.orange,Bamboo,#DA6304
+color.yellow,Banana Cream,#FFE135
 color.yellow,Banana Mania,#FAE7B5
 color.yellow,Banana Yellow,#FFE135
+color.blue,Barbados Blue,#166391
 color.red,Barn Red,#7C0A02
+color.green,Basil,#879F84
+color.red,Basque Red,#822F3D
 color.grey,Battleship Grey,#848482
+color.blue,Bavarian Blue,#00559E
 color.brown,Bazaar,#98777B
+color.white,Beach Sand,#F3E5AB
+color.brown,Bear Brown,#4E3B31
 color.blue,Beau Blue,#BCD4E6
 color.brown,Beaver,#9F8170
+color.pink,Begonia,#FA6E79
 color.brown,Beige,#F5F5DC
+color.grey,Belgian Block,#91969A
+color.blue,Bermuda Blue,#7DD8C6
+color.blue,Berry Blue,#0F4C81
+color.green,Beryl Green,#8A9A5B
+color.green,Billiard Table,#036A3E
+color.brown,Birch,#DFD1BB
+color.white,Biscuit,#FEEDCA
+color.brown,Bison Brown,#6E4B26
 color.brown,Bisque,#FFE4C4
 color.brown,Bistre,#3D2B1F
 color.brown,Bistre Brown,#967117
@@ -61,84 +90,315 @@ color.red,Bittersweet Shimmer,#BF4F51
 color.black,Black,#000000
 color.black,Black Bean,#3D0C02
 color.grey,Black Coral,#54626F
+color.green,Black Forest,#0B1304
 color.black,Black Olive,#3B3C36
+color.black,Black Pearl,#041322
+color.purple,Blackberry,#4D0135
+color.purple,Blackcurrant,#32293A
+color.white,Blanc,#FFFFFF
 color.brown,Blanched Almond,#FFEBCD
+color.purple,Bleached Cedar,#2C2133
+color.brown,Bleached Sand,#DACCBC
+color.yellow,Blond,#FAF0BE
+color.orange,Blood Orange,#D1001C
 color.red,Blood Red,#660000
 color.blue,Blue,#0000FF
 color.blue,Blue Bell,#A2A2D0
+color.blue,Blue Chill,#0C8990
+color.blue,Blue Diamond,#380474
 color.blue,Blue Gray,#6699CC
 color.green,Blue Green,#0D98BA
+color.blue,Blue Haze,#BFBED8
+color.blue,Blue Ice,#82CAFF
+color.blue,Blue Ribbon,#0066FF
 color.blue,Blue Sapphire,#126180
 color.purple,Blue Violet,#8A2BE2
+color.blue,Blue Whale,#042E4C
+color.blue,Blueberry,#4F86F7
 color.pink,Blush,#DE5D83
+color.pink,Blush Pink,#FF6FFF
+color.red,Blush Red,#E56E94
+color.brown,Boardwalk,#D2B48C
 color.brown,Bole,#79443B
 color.white,Bone,#E3DAC9
+color.green,Booger,#9BB53C
+color.red,Bordeaux,#5C0120
+color.purple,Bossanova,#4E2A5A
+color.blue,Boston Blue,#3B91B4
+color.grey,Boulder,#7A7A7A
+color.purple,Bouquet,#AE809E
+color.brown,Bourbon,#BA6F1E
+color.purple,Boysenberry,#873260
+color.brown,Bracken,#4A2A18
+color.brown,Bran,#A17851
+color.brown,Brandy,#DEB887
+color.yellow,Brass,#B5A642
+color.red,Brazilian Red,#AB0D2E
+color.green,Breaker Bay,#5DA19F
+color.orange,Bric-A-Brac,#8F4B0E
+color.red,Brick,#A03623
 color.red,Brick Red,#CB4154
+color.white,Bridal Heath,#FFFAF0
+color.blue,Bright Cerulean,#1DACD6
+color.yellow,Bright Gold,#FDD017
+color.green,Bright Green,#66FF00
+color.purple,Bright Lavender,#BF94E4
+color.red,Bright Maroon,#C32148
+color.blue,Bright Navy Blue,#1974D2
+color.blue,Bright Turquoise,#08E8DE
+color.purple,Bright Ube,#D19FE8
+color.blue,Brilliant Azure,#3399FF
+color.pink,Brilliant Rose,#FF55A3
+color.pink,Brink Pink,#FB607F
+color.green,British Racing Green,#004225
 color.brown,Bronze,#CD7F32
+color.yellow,Bronze Yellow,#737000
 color.brown,Brown,#A52A2A
+color.brown,Brown Bramble,#592804
+color.brown,Brown Rust,#AF593E
 color.brown,Brown Sugar,#AF6E4D
+color.pink,Bubble Gum,#FFC1CC
+color.blue,Bubbles,#E7FEFF
+color.red,Buccaneer,#622F30
+color.green,Bud Green,#7BB661
+color.yellow,Buddha Gold,#C1A004
+color.red,Bulgarian Rose,#480607
+color.brown,Bull Shot,#864D1E
+color.blue,Bunting,#151F4C
+color.purple,Burgundian,#572F3A
 color.red,Burgundy,#800020
 color.brown,Burlywood,#DEB887
+color.yellow,Burmese Gold,#E5A01D
 color.brown,Burnished Brown,#A17A74
+color.red,Burnt Crimson,#5B1B04
 color.orange,Burnt Orange,#CC5500
 color.brown,Burnt Sienna,#E97451
 color.brown,Burnt Umber,#8A3324
+color.yellow,Butter,#FFFF81
+color.yellow,Buttercup,#F3AD16
+color.brown,Buttered Rum,#C19A6B
+color.blue,Butterfly Blue,#38B0DE
+color.yellow,Buttermilk,#FFF1B5
+color.purple,Byzantium,#702963
+color.green,Cabbage Pont,#3F4C3A
+color.green,Cactus,#587156
 color.blue,Cadet Blue,#5F9EA0
+color.pink,Cadillac,#B04C6A
 color.green,Cadmium Green,#006B3C
 color.orange,Cadmium Orange,#ED872D
 color.red,Cadmium Red,#E30022
 color.yellow,Cadmium Yellow,#FFF600
 color.brown,Cafe Au Lait,#A67B5B
 color.brown,Cafe Noir,#4B3621
+color.brown,Cafe Royale,#6F440C
+color.green,Cal Poly Green,#1E4D2B
+color.blue,Calamine Blue,#92C6D5
+color.brown,Calico,#E0C095
+color.yellow,California Gold,#A98F64
+color.blue,Callisto,#2E394B
 color.blue,Cambridge Blue,#A3C1AD
 color.brown,Camel,#C19A6B
 color.pink,Cameo Pink,#EFBBCC
+color.green,Camouflage Green,#78866B
+color.orange,Campfire,#CE5C00
+color.blue,Canal Blue,#1B9BCB
 color.yellow,Canary,#FFFF99
 color.yellow,Canary Yellow,#FFEF00
 color.red,Candy Apple Red,#FF0800
 color.pink,Candy Pink,#E4717A
+color.yellow,Candycorn,#FCEC04
+color.white,Canvas,#D3CBB8
+color.green,Caper,#DCEDB4
 color.blue,Capri,#00BFFF
+color.orange,Caramel,#FFD59A
+color.white,Cararra,#EEEEE8
+color.grey,Carbon Gray,#625D5D
 color.red,Cardinal,#C41E3A
+color.pink,Cardinal Pink,#8C055E
+color.blue,Caribbean Blue,#1AC9E6
 color.green,Caribbean Green,#00CC99
+color.pink,Carissma,#EA88A8
+color.green,Carla,#F3FFD8
 color.red,Carmine,#960018
+color.brown,Carnaby Tan,#5C2E01
+color.pink,Carnation,#F95A61
 color.pink,Carnation Pink,#FFA6C9
 color.red,Carnelian,#B31B1B
 color.blue,Carolina Blue,#4B9CD3
+color.pink,Carousel Pink,#F9E0ED
 color.orange,Carrot Orange,#ED9121
+color.yellow,Casablanca,#F8B853
+color.blue,Casal,#2F6168
+color.green,Cascade,#8BA9A5
+color.brown,Cashmere,#E6BEA5
+color.blue,Casper,#ADBED1
+color.purple,Castile,#52001F
+color.blue,Catalina Blue,#062A78
+color.brown,Cattail,#714631
+color.black,Caviar,#292A2D
+color.brown,Cedar,#3E1C14
 color.green,Celadon,#ACE1AF
 color.blue,Celeste,#B2FFFF
+color.green,Celery,#B8C25D
+color.blue,Celestial Blue,#4997D0
+color.green,Celtic,#163222
+color.grey,Cement,#8D7662
+color.white,Ceramic,#FCFFF9
 color.pink,Cerise,#DE3163
 color.blue,Cerulean,#007BA7
+color.blue,Cerulean Blue,#2A52BE
+color.orange,Ceylon,#D2691E
+color.white,Chablis,#FFF4F3
+color.green,Chalet Green,#516E3D
+color.yellow,Chalky,#EED794
+color.blue,Chambray,#354E8C
+color.brown,Chamois,#A0785A
 color.yellow,Champagne,#F7E7CE
+color.white,Champagne Ice,#E2D9D1
+color.pink,Chantilly,#F8C3DF
+color.grey,Charade,#292937
 color.grey,Charcoal,#36454F
+color.white,Chardon,#FFF1F5
+color.yellow,Chardonnay,#FFCD8C
+color.blue,Charlotte,#BAEEF9
+color.pink,Charm,#E68FAC
 color.green,Chartreuse,#7FFF00
+color.yellow,Chartreuse Yellow,#DFFF00
+color.green,Chateau Green,#40A860
+color.red,Cherry,#DA2647
 color.pink,Cherry Blossom Pink,#FFB7C5
+color.red,Cherry Red,#F2013F
+color.red,Cherrywood,#651A14
+color.pink,Cherub,#F8D9E9
 color.brown,Chestnut,#954535
+color.red,Chestnut Red,#C34A2C
+color.blue,Chetwode Blue,#8581D9
+color.grey,Chicago,#5D5C58
+color.yellow,Chiffon,#F1FFC8
+color.orange,Chilean Fire,#F77703
+color.red,Chili Pepper,#C11B17
+color.white,China Ivory,#FCFFE7
+color.blue,Chinese Blue,#365194
+color.red,Chinese Red,#AB381F
+color.purple,Chinese Violet,#856088
+color.brown,Chino,#CEC7A7
+color.green,Chinook,#A8E3BD
+color.green,Chlorophyll Green,#4AFF00
+color.brown,Choc,#D05F04
 color.brown,Chocolate,#D2691E
+color.brown,Chocolate Brown,#3F000F
+color.yellow,Chrome Yellow,#FFA700
+color.grey,Cinder,#0E0E18
 color.brown,Cinereous,#98817B
 color.red,Cinnabar,#E34234
+color.red,Cinnabar Red,#E34234
 color.brown,Cinnamon,#D2691E
+color.pink,Cinnamon Rose,#A97782
 color.yellow,Citrine,#E4D00A
+color.white,Citrine White,#FAF7D6
 color.yellow,Citron,#9FA91F
+color.green,Clair De Lune,#E1EAE1
+color.pink,Clam Shell,#D4B6AF
 color.red,Claret,#7F1734
+color.pink,Classic Rose,#FBCCE7
+color.green,Clay Ash,#BDC8B3
+color.brown,Clay Creek,#8A8360
+color.blue,Clear Day,#E9FFFD
+color.orange,Clementine,#E96E00
+color.brown,Clinker,#371D09
+color.grey,Cloud,#C7C4BF
+color.blue,Cloud Burst,#202E54
+color.green,Clover,#384910
+color.blue,Cobalt,#030AA7
 color.blue,Cobalt Blue,#0047AB
+color.brown,Coca Mocha,#BD9B8B
+color.brown,Cocoa Brown,#D2691E
+color.brown,Coconut,#965A3E
 color.brown,Coffee,#6F4E37
+color.brown,Coffee Bean,#2A140E
+color.brown,Cognac,#9F381D
+color.brown,Cola,#3F2500
+color.purple,Cold Purple,#ABA0D9
+color.white,Colonial White,#FFEDBC
 color.blue,Columbia Blue,#9BDDFF
+color.grey,Comet,#5C5D75
+color.green,Como,#517C66
+color.grey,Conch,#C9D9D2
+color.grey,Concord,#7C7B7A
+color.grey,Concrete,#F2F2F2
+color.yellow,Confetti,#E9D75A
+color.brown,Congo Brown,#593737
+color.blue,Congress Blue,#02478E
+color.green,Conifer,#ACDD4D
+color.pink,Contessa,#C6726B
+color.orange,Cool Copper,#D98719
+color.grey,Cool Grey,#8C92AC
 color.brown,Copper,#B87333
+color.brown,Copper Canyon,#7E3A15
+color.pink,Copper Rose,#996666
+color.brown,Copper Rust,#944747
+color.red,Coquelicot,#FF3800
 color.orange,Coral,#FF7F50
+color.red,Coral Red,#FF4040
 color.red,Cordovan,#893F45
+color.green,Coriander,#C4D0B0
+color.brown,Cork,#40291D
 color.yellow,Corn,#FBEC5D
+color.yellow,Corn Field,#F8FACD
+color.white,Cornflower,#F2EFE8
 color.blue,Cornflower Blue,#6495ED
 color.yellow,Cornsilk,#FFF8DC
 color.white,Cosmic Latte,#FFF8E7
 color.pink,Cotton Candy,#FFBCD9
+color.grey,Cotton Seed,#C2BDB6
+color.green,County Green,#01371A
+color.brown,Cowboy,#4D282D
+color.brown,Coyote Brown,#81613C
+color.red,Cranberry,#DB5079
+color.brown,Crater Brown,#462425
 color.white,Cream,#FFFDD0
+color.yellow,Cream Can,#F5C85C
+color.white,Creamy,#F5D2D3
+color.brown,Creole,#1E0F04
+color.green,Crete,#737829
 color.red,Crimson,#DC143C
+color.red,Crimson Red,#990000
+color.green,Crocodile,#736D58
+color.red,Crown of Thorns,#771F1F
+color.black,Crowshead,#1C1208
+color.blue,Cruise,#B5ECDF
+color.green,Crusoe,#004816
+color.orange,Crusta,#FD7B33
+color.brown,Cumin,#924321
+color.pink,Cupid,#FBAED2
+color.blue,Curious Blue,#2596D1
+color.green,Cutty Sark,#507672
 color.blue,Cyan,#00FFFF
+color.blue,Cyan Blue,#00B7EB
+color.green,Cypress,#545A2C
+color.yellow,Daffodil,#FFFF31
+color.blue,Daintree,#012731
+color.yellow,Dairy Cream,#F9E4BC
+color.purple,Daisy Bush,#4F2398
+color.brown,Dallas,#6E4B26
+color.purple,Dancing Script,#E8DAEE
 color.yellow,Dandelion,#F0E130
+color.yellow,Dandelion Yellow,#FED85D
+color.blue,Danube,#6093D1
 color.blue,Dark Blue,#00008B
+color.blue,Dark Blue Gray,#666699
+color.brown,Dark Bronze,#804A00
 color.brown,Dark Brown,#654321
+color.brown,Dark Brown Tangelo,#88654E
+color.red,Dark Candy Apple Red,#A40000
+color.blue,Dark Cerulean,#08457E
+color.brown,Dark Chestnut,#986960
+color.orange,Dark Coral,#CD5B45
 color.blue,Dark Cyan,#008B8B
+color.green,Dark Emerald,#008A00
+color.green,Dark Fern,#0A6906
+color.purple,Dark Fuchsia,#9D02D7
+color.yellow,Dark Gold,#AA6C39
 color.yellow,Dark Goldenrod,#B8860B
 color.grey,Dark Gray,#A9A9A9
 color.green,Dark Green,#006400
