@@ -470,7 +470,7 @@ Date,Platform,Category,Activity_Name,Streak,Duration_Min,Status
 2026-05-26,Kaggle,Data Science,Explore and Update Datasets,25,4,Completed
 2026-05-26,MonkeyType,Typing Proficiency,Speed Typing Training and Test,25,15,Success
 2026-05-27,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,590,6,Completed
-2026-05-27,Mimo,Full-Stack Development,Select,65,5,Completed
+2026-05-27,Mimo,Full-Stack Development,Intro to Select,65,5,Completed
 2026-05-27,TryHackMe,Cybersecurity,Dive Into Pentesting,65,7,Completed
 2026-05-27,Khan Academy,STEM Education,Junior Grade Math Review,26,6,In-Progress
 2026-05-27,Brilliant.org,Problem Solving,Combining-Loops,26,6,Completed
@@ -480,3 +480,14 @@ Date,Platform,Category,Activity_Name,Streak,Duration_Min,Status
 2026-05-27,HuggingFace,Machine Learning Ops,Update and Explore Datasets,65,10,Success
 2026-05-27,Kaggle,Data Science,Explore and Update Datasets,26,5,Completed
 2026-05-27,MonkeyType,Typing Proficiency,Speed Typing Training and Test,26,20,Success
+2026-05-28,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,591,5,Completed
+2026-05-28,Mimo,Full-Stack Development,Interacting with Select Elements,66,4,Completed
+2026-05-28,TryHackMe,Cybersecurity,Passive Reconnaissance,66,8,In-Progress
+2026-05-28,Khan Academy,STEM Education,Junior Grade Math Review,27,7,In-Progress
+2026-05-28,Brilliant.org,Problem Solving,Combining-Loops,27,5,Completed
+2026-05-28,Daily.dev,Articles & News,Explore and Read Articles,1,15,Completed
+2026-05-28,GitHub,DevOps & Version Control,Repository Update,66,19,Success
+2026-05-28,LeetCode,Data Structures & Algorithms,Longest Common Suffix Queries,27,21,Solved
+2026-05-28,HuggingFace,Machine Learning Ops,Update and Explore Datasets,66,9,Success
+2026-05-28,Kaggle,Data Science,Explore and Update Datasets,27,3,Completed
+2026-05-28,MonkeyType,Typing Proficiency,Speed Typing Training and Test,27,16,Success
