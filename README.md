@@ -13,6 +13,9 @@ graph TD
     B --> C[Japanese Dataset]
     B --> D[Indonesian Dataset]
     B --> E[Arabian Dataset]
+    B --> F[Color Palettes Dataset]
+    B --> G[Daily Streak]
+
 ```
 
 ## License
