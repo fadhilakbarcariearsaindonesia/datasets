@@ -1,6 +1,6 @@
 Key,Name,Hex
-metadata.version,1.5.0,
-metadata.last_updated,2026-05-26,
+metadata.version,1.6.0,
+metadata.last_updated,2026-05-29,
 metadata.author,Fadhil Akbar Cariearsa,
 metadata.license,MIT,
 metadata.category,Color Palette,
@@ -117,6 +117,32 @@ color.grey,Ash Gray,#B2BEB5
 color.grey,Asphalt,#0C0404
 color.green,Asparagus,#87A96B
 color.blue,Astral,#327DA0
+color.purple,Astro Amethyst,#8C55BE
+color.blue,Astro Azure,#0073E6
+color.brown,Astro Bronze,#B9722D
+color.brown,Astro Copper,#A6682E
+color.red,Astro Crimson,#BD0F3B
+color.blue,Astro Cyan,#00E6E6
+color.green,Astro Emerald,#48B46C
+color.red,Astro Garnet,#683130
+color.yellow,Astro Gold,#E6C200
+color.purple,Astro Indigo,#440075
+color.green,Astro Jade,#009861
+color.green,Astro Lime,#ACE600
+color.purple,Astro Magenta,#E600E6
+color.green,Astro Mint,#38A37C
+color.blue,Astro Navy,#000075
+color.green,Astro Olive,#737300
+color.black,Astro Onyx,#303334
+color.orange,Astro Peach,#E6CEA3
+color.white,Astro Pearl,#D4C9B5
+color.purple,Astro Plum,#803E78
+color.red,Astro Ruby,#CA0F56
+color.blue,Astro Sapphire,#0E4B9E
+color.grey,Astro Silver,#ADADAD
+color.blue,Astro Teal,#007373
+color.yellow,Astro Topaz,#E6B570
+color.purple,Astro Violet,#8100E6
 color.grey,Athena,#E5E4E2
 color.blue,Atlantic Blue,#283B64
 color.blue,Atlantis,#97CD2D
@@ -125,6 +151,32 @@ color.orange,Atomic Tangerine,#FF9966
 color.purple,Aubergine,#372528
 color.brown,Auburn,#A52A2A
 color.yellow,Aureolin,#FDEE00
+color.purple,Aura Amethyst,#A678D4
+color.blue,Aura Azure,#1A8CFF
+color.brown,Aura Bronze,#D68F42
+color.brown,Aura Copper,#C28242
+color.red,Aura Crimson,#DB2954
+color.blue,Aura Cyan,#1AFFFF
+color.green,Aura Emerald,#60D186
+color.red,Aura Garnet,#804241
+color.yellow,Aura Gold,#FFDE1A
+color.purple,Aura Indigo,#5B0099
+color.green,Aura Jade,#1AB57A
+color.green,Aura Lime,#C5FF1A
+color.purple,Aura Magenta,#FF1AFF
+color.green,Aura Mint,#4EC298
+color.blue,Aura Navy,#1A1A99
+color.green,Aura Olive,#8C8C1A
+color.black,Aura Onyx,#404445
+color.orange,Aura Peach,#FFECBF
+color.white,Aura Pearl,#F0E8D1
+color.purple,Aura Plum,#9C5292
+color.red,Aura Ruby,#E62970
+color.blue,Aura Sapphire,#2264C7
+color.grey,Aura Silver,#C9C9C9
+color.blue,Aura Teal,#1A8C8C
+color.yellow,Aura Topaz,#FFD28C
+color.purple,Aura Violet,#9D1AFF
 color.brown,Autumn,#8F522A
 color.orange,Autumn Blaze,#D65A31
 color.brown,Autumn Leaf,#C15421
@@ -341,7 +393,7 @@ color.purple,Bossanova,#4E2A5A
 color.blue,Boston Blue,#3B91B4
 color.green,Botanic,#2E6038
 color.green,Bottle Green,#006A4E
-color.grey,Boulder,#7A7A7A
+color.grey,Boulder,#7A7A7B
 color.purple,Bouquet,#AE809E
 color.brown,Bourbon,#BA6F1E
 color.pink,Boutique,#E4A4B4
@@ -623,6 +675,32 @@ color.brown,Chocolate Brown,#3F000F
 color.brown,Chocolate Milk,#8B6651
 color.purple,Christalle,#33036B
 color.green,Christi,#67A712
+color.purple,Chroma Amethyst,#A36BEB
+color.blue,Chroma Azure,#0084FF
+color.brown,Chroma Bronze,#DB8735
+color.brown,Chroma Copper,#C77C38
+color.red,Chroma Crimson,#E61247
+color.blue,Chroma Cyan,#00FFFF
+color.green,Chroma Emerald,#55DB82
+color.red,Chroma Garnet,#7D3B3A
+color.yellow,Chroma Gold,#FFDF00
+color.purple,Chroma Indigo,#52008F
+color.green,Chroma Jade,#00B875
+color.green,Chroma Lime,#C7FF00
+color.purple,Chroma Magenta,#FF00FF
+color.green,Chroma Mint,#42C796
+color.blue,Chroma Navy,#00008F
+color.green,Chroma Olive,#8F8F00
+color.black,Chroma Onyx,#393C3D
+color.orange,Chroma Peach,#FFECC2
+color.white,Chroma Pearl,#F2E7CD
+color.purple,Chroma Plum,#9C4B92
+color.red,Chroma Ruby,#F01366
+color.blue,Chroma Sapphire,#1059C9
+color.grey,Chroma Silver,#CCCCCC
+color.blue,Chroma Teal,#008F8F
+color.yellow,Chroma Topaz,#FFD085
+color.purple,Chroma Violet,#9800FF
 color.grey,Chrome,#C6C8C9
 color.white,Chrome White,#E8F1D4
 color.yellow,Chrome Yellow,#FFA700
@@ -762,6 +840,32 @@ color.green,Cutty Sark,#507672
 color.blue,Cyan,#00FFFF
 color.blue,Cyan Blue,#00B7EB
 color.blue,Cyan Cobalt,#28589C
+color.purple,Cyber Amethyst,#8C55C4
+color.blue,Cyber Azure,#0074E8
+color.brown,Cyber Bronze,#BA732E
+color.brown,Cyber Copper,#A8692F
+color.red,Cyber Crimson,#C40F3E
+color.blue,Cyber Cyan,#00E8E8
+color.green,Cyber Emerald,#49B86E
+color.red,Cyber Garnet,#6A3231
+color.yellow,Cyber Gold,#E8C400
+color.purple,Cyber Indigo,#450078
+color.green,Cyber Jade,#009A62
+color.green,Cyber Lime,#ADE800
+color.purple,Cyber Magenta,#E800E8
+color.green,Cyber Mint,#39A67E
+color.blue,Cyber Navy,#000078
+color.green,Cyber Olive,#757500
+color.black,Cyber Onyx,#313435
+color.orange,Cyber Peach,#E8D0A6
+color.white,Cyber Pearl,#D6CAB6
+color.purple,Cyber Plum,#823F7A
+color.red,Cyber Ruby,#CC1057
+color.blue,Cyber Sapphire,#0E4DA1
+color.grey,Cyber Silver,#AFAFAF
+color.blue,Cyber Teal,#007575
+color.yellow,Cyber Topaz,#E8B672
+color.purple,Cyber Violet,#8200E8
 color.grey,Cylinder,#9E999B
 color.green,Cypress,#545A2C
 color.yellow,Daffodil,#FFFF31
@@ -901,6 +1005,32 @@ color.brown,Earth Brown,#6A5442
 color.brown,Earthenware,#A75B46
 color.black,Ebony,#555D50
 color.grey,Ebony Clay,#262833
+color.purple,Echo Amethyst,#8A70A6
+color.blue,Echo Azure,#4D8BCC
+color.brown,Echo Bronze,#A67D54
+color.brown,Echo Copper,#997352
+color.red,Echo Crimson,#A63F55
+color.blue,Echo Cyan,#4DCCCC
+color.green,Echo Emerald,#6BA881
+color.red,Echo Garnet,#5C3D3D
+color.yellow,Echo Gold,#CCA833
+color.purple,Echo Indigo,#4C2666
+color.green,Echo Jade,#339973
+color.green,Echo Lime,#A8CC33
+color.purple,Echo Magenta,#CC33CC
+color.green,Echo Mint,#57997F
+color.blue,Echo Navy,#262666
+color.green,Echo Olive,#666626
+color.black,Echo Onyx,#353637
+color.orange,Echo Peach,#CCBEA3
+color.white,Echo Pearl,#C4BEB1
+color.purple,Echo Plum,#784F72
+color.red,Echo Ruby,#B33D6B
+color.blue,Echo Sapphire,#385B99
+color.grey,Echo Silver,#A6A6A6
+color.blue,Echo Teal,#266666
+color.yellow,Echo Topaz,#CCAC80
+color.purple,Echo Violet,#8233CC
 color.grey,Eclipse,#3F3939
 color.green,Eco Green,#499042
 color.brown,Ecru,#C2B280
@@ -1043,6 +1173,32 @@ color.orange,Fulvous,#E48400
 color.blue,Fun Blue,#1959A8
 color.grey,Fuscous Gray,#54534D
 color.grey,Gainsboro,#DCDCDC
+color.purple,Galactic Amethyst,#7A52A3
+color.blue,Galactic Azure,#0066CC
+color.brown,Galactic Bronze,#A36629
+color.brown,Galactic Copper,#945C29
+color.red,Galactic Crimson,#A80E34
+color.blue,Galactic Cyan,#00CCCC
+color.green,Galactic Emerald,#40A160
+color.red,Galactic Garnet,#5C2B2B
+color.yellow,Galactic Gold,#CCAC00
+color.purple,Galactic Indigo,#3C0066
+color.green,Galactic Jade,#008756
+color.green,Galactic Lime,#99CC00
+color.purple,Galactic Magenta,#CC00CC
+color.green,Galactic Mint,#32916E
+color.blue,Galactic Navy,#000066
+color.green,Galactic Olive,#666600
+color.black,Galactic Onyx,#2A2C2E
+color.orange,Galactic Peach,#CCB790
+color.white,Galactic Pearl,#BDB5A1
+color.purple,Galactic Plum,#73376B
+color.red,Galactic Ruby,#B30E4C
+color.blue,Galactic Sapphire,#0C4296
+color.grey,Galactic Silver,#999999
+color.blue,Galactic Teal,#006666
+color.yellow,Galactic Topaz,#CCA063
+color.purple,Galactic Violet,#7300CC
 color.purple,Galaxy,#2C2647
 color.blue,Galaxy Blue,#2A4B7C
 color.white,Gallery,#EFEFEF
@@ -1199,6 +1355,32 @@ color.grey,Hit Gray,#A1ADB5
 color.orange,Hit Pink,#FFAB81
 color.yellow,Hokey Pokey,#C8A528
 color.blue,Hoki,#65869F
+color.purple,Holo Amethyst,#A87AD6
+color.blue,Holo Azure,#1F8EFF
+color.brown,Holo Bronze,#D99347
+color.brown,Holo Copper,#C48647
+color.red,Holo Crimson,#DE2D58
+color.blue,Holo Cyan,#1FFFFF
+color.green,Holo Emerald,#63D489
+color.red,Holo Garnet,#824443
+color.yellow,Holo Gold,#FFDF1F
+color.purple,Holo Indigo,#5D009C
+color.green,Holo Jade,#1FB87D
+color.green,Holo Lime,#C7FF1F
+color.purple,Holo Magenta,#FF1FFF
+color.green,Holo Mint,#51C49B
+color.blue,Holo Navy,#1F1F9C
+color.green,Holo Olive,#8F8F1F
+color.black,Holo Onyx,#424647
+color.orange,Holo Peach,#FFEDC2
+color.white,Holo Pearl,#F2EAD4
+color.purple,Holo Plum,#9E5494
+color.red,Holo Ruby,#E82C73
+color.blue,Holo Sapphire,#2566C9
+color.grey,Holo Silver,#CCCCCC
+color.blue,Holo Teal,#1F8F8F
+color.yellow,Holo Topaz,#FFD48F
+color.purple,Holo Violet,#A01FFF
 color.green,Holly,#011D13
 color.pink,Hollywood Cerise,#F400A1
 color.yellow,Honey,#E5B22C
@@ -1219,6 +1401,32 @@ color.green,Hunter Green,#355E3B
 color.grey,Hurricane,#877C7B
 color.grey,Husky,#E3E4E6
 color.blue,Hyacinth,#5778B5
+color.purple,Hyper Amethyst,#AD75E6
+color.blue,Hyper Azure,#008BFF
+color.brown,Hyper Bronze,#E68E37
+color.brown,Hyper Copper,#D1823B
+color.red,Hyper Crimson,#F2144B
+color.blue,Hyper Cyan,#00FFFF
+color.green,Hyper Emerald,#59E689
+color.red,Hyper Garnet,#823D3C
+color.yellow,Hyper Gold,#FFEB00
+color.purple,Hyper Indigo,#560096
+color.green,Hyper Jade,#00C27A
+color.green,Hyper Lime,#D1FF00
+color.purple,Hyper Magenta,#FF00FF
+color.green,Hyper Mint,#45D19E
+color.blue,Hyper Navy,#000096
+color.green,Hyper Olive,#969600
+color.black,Hyper Onyx,#3B3F40
+color.orange,Hyper Peach,#FFF7CB
+color.white,Hyper Pearl,#FFEDCC
+color.purple,Hyper Plum,#A34E99
+color.red,Hyper Ruby,#FC146B
+color.blue,Hyper Sapphire,#115ECF
+color.grey,Hyper Silver,#D6D6D6
+color.blue,Hyper Teal,#009696
+color.yellow,Hyper Topaz,#FFDA8C
+color.purple,Hyper Violet,#9F00FF
 color.blue,Ice,#D6FFFA
 color.blue,Ice Blue,#82CAFF
 color.blue,Ice Cold,#B1F4E7
@@ -1459,6 +1667,32 @@ color.red,Love Red,#E21010
 color.green,Lucky,#AF9F1C
 color.blue,Lucky Point,#1A1A68
 color.brown,Lumber,#FFE4CD
+color.purple,Lumina Amethyst,#B58AE0
+color.blue,Lumina Azure,#3399FF
+color.brown,Lumina Bronze,#E09E5C
+color.brown,Lumina Copper,#D1945C
+color.red,Lumina Crimson,#E6456B
+color.blue,Lumina Cyan,#33FFFF
+color.green,Lumina Emerald,#71E09D
+color.red,Lumina Garnet,#8F5453
+color.yellow,Lumina Gold,#FFE433
+color.purple,Lumina Indigo,#6A1AA3
+color.green,Lumina Jade,#33C28B
+color.green,Lumina Lime,#D6FF33
+color.purple,Lumina Magenta,#FF33FF
+color.green,Lumina Mint,#5ED1A8
+color.blue,Lumina Navy,#1A1AA3
+color.green,Lumina Olive,#99991A
+color.black,Lumina Onyx,#4E5253
+color.orange,Lumina Peach,#FFF0D1
+color.white,Lumina Pearl,#F5EEDC
+color.purple,Lumina Plum,#AD62A4
+color.red,Lumina Ruby,#F23D80
+color.blue,Lumina Sapphire,#3172D6
+color.grey,Lumina Silver,#D9D9D9
+color.blue,Lumina Teal,#1A9999
+color.yellow,Lumina Topaz,#FFDF9E
+color.purple,Lumina Violet,#A833FF
 color.green,Lunar Green,#3C493A
 color.yellow,Luxator,#D9D2A6
 color.white,Macadamia,#F3E4C6
@@ -1661,6 +1895,32 @@ color.brown,Navajo White,#FFDEAD
 color.blue,Navy,#000080
 color.blue,Navy Night,#131E3A
 color.white,Nebula,#CBDBD6
+color.purple,Nebula Amethyst,#885CA6
+color.blue,Nebula Azure,#1A6AC4
+color.brown,Nebula Bronze,#A87137
+color.brown,Nebula Copper,#996336
+color.red,Nebula Crimson,#B32446
+color.blue,Nebula Cyan,#1AC4C4
+color.green,Nebula Emerald,#50A871
+color.red,Nebula Garnet,#663837
+color.yellow,Nebula Gold,#C4A91A
+color.purple,Nebula Indigo,#44136B
+color.green,Nebula Jade,#1A8F65
+color.green,Nebula Lime,#9EC41A
+color.purple,Nebula Magenta,#C41AC4
+color.green,Nebula Mint,#419677
+color.blue,Nebula Navy,#13136B
+color.green,Nebula Olive,#6B6B13
+color.black,Nebula Onyx,#393B3C
+color.orange,Nebula Peach,#C4B291
+color.white,Nebula Pearl,#BAB4A6
+color.purple,Nebula Plum,#804879
+color.red,Nebula Ruby,#BD225B
+color.blue,Nebula Sapphire,#205096
+color.grey,Nebula Silver,#A3A3A3
+color.blue,Nebula Teal,#136B6B
+color.yellow,Nebula Topaz,#C49F63
+color.purple,Nebula Violet,#7F1AC4
 color.orange,Nectarine,#FF7D4A
 color.orange,Negroni,#FFE2C5
 color.blue,Neon Blue,#4D4DFF
@@ -1692,6 +1952,32 @@ color.brown,Nomad,#BAB1A2
 color.blue,Non-Photo Blue,#A4DDED
 color.white,Nordic White,#F4F6F5
 color.brown,Nougat,#C59871
+color.purple,Nova Amethyst,#AB77E0
+color.blue,Nova Azure,#0088FA
+color.brown,Nova Bronze,#E08A36
+color.brown,Nova Copper,#CC7F38
+color.red,Nova Crimson,#ED1349
+color.blue,Nova Cyan,#00FAFA
+color.green,Nova Emerald,#57E086
+color.red,Nova Garnet,#803D3C
+color.yellow,Nova Gold,#FAE200
+color.purple,Nova Indigo,#540094
+color.green,Nova Jade,#00BD78
+color.green,Nova Lime,#CCFA00
+color.purple,Nova Magenta,#FA00FA
+color.green,Nova Mint,#43CC9A
+color.blue,Nova Navy,#000094
+color.green,Nova Olive,#949400
+color.black,Nova Onyx,#3A3E3F
+color.orange,Nova Peach,#FAF2C7
+color.white,Nova Pearl,#F7ECD4
+color.purple,Nova Plum,#A14D96
+color.red,Nova Ruby,#F71269
+color.blue,Nova Sapphire,#105DCD
+color.grey,Nova Silver,#D1D1D1
+color.blue,Nova Teal,#009494
+color.yellow,Nova Topaz,#FAD68A
+color.purple,Nova Violet,#9C00FA
 color.brown,Nutmeg,#81422C
 color.brown,Nutmeg Wood Finish,#683600
 color.pink,Ny Pink,#D25E65
@@ -1877,6 +2163,32 @@ color.black,Pitch,#000000
 color.blue,Pixel,#0056D6
 color.orange,Pizza,#BF752A
 color.blue,Planet,#1A2649
+color.purple,Plasma Amethyst,#945BCC
+color.blue,Plasma Azure,#0075F0
+color.brown,Plasma Bronze,#CC7E31
+color.brown,Plasma Copper,#B87333
+color.red,Plasma Crimson,#D61142
+color.blue,Plasma Cyan,#00F0F0
+color.green,Plasma Emerald,#4FBD74
+color.red,Plasma Garnet,#703534
+color.yellow,Plasma Gold,#F0D100
+color.purple,Plasma Indigo,#4C0085
+color.green,Plasma Jade,#00A669
+color.green,Plasma Lime,#B8F000
+color.purple,Plasma Magenta,#F000F0
+color.green,Plasma Mint,#3CB085
+color.blue,Plasma Navy,#000085
+color.green,Plasma Olive,#858500
+color.black,Plasma Onyx,#333637
+color.orange,Plasma Peach,#F0DAAD
+color.white,Plasma Pearl,#E8DDCA
+color.purple,Plasma Plum,#8A4381
+color.red,Plasma Ruby,#DF115C
+color.blue,Plasma Sapphire,#0E52B5
+color.grey,Plasma Silver,#BDBDBD
+color.blue,Plasma Teal,#008585
+color.yellow,Plasma Topaz,#F0BE77
+color.purple,Plasma Violet,#8A00F0
 color.grey,Platinum,#E5E4E2
 color.grey,Platinum Grey,#E5E4E2
 color.purple,Plum,#DDA0DD
@@ -1896,6 +2208,32 @@ color.pink,Powder Pink,#FFB2D0
 color.brown,Praline,#BA896E
 color.pink,Primrose,#ED94AE
 color.orange,Princeton Orange,#F58025
+color.purple,Prism Amethyst,#9E6ACF
+color.blue,Prism Azure,#0C7EFF
+color.brown,Prism Bronze,#CF8438
+color.brown,Prism Copper,#BB7A3B
+color.red,Prism Crimson,#DB1D4B
+color.blue,Prism Cyan,#0CFFFF
+color.green,Prism Emerald,#57C97E
+color.red,Prism Garnet,#783B3A
+color.yellow,Prism Gold,#FFD90C
+color.purple,Prism Indigo,#500887
+color.green,Prism Jade,#0CAE72
+color.green,Prism Lime,#C2FF0C
+color.purple,Prism Magenta,#FF0CFF
+color.green,Prism Mint,#45B88D
+color.blue,Prism Navy,#080887
+color.green,Prism Olive,#878708
+color.black,Prism Onyx,#383B3C
+color.orange,Prism Peach,#FFE6B9
+color.white,Prism Pearl,#EDE2CD
+color.purple,Prism Plum,#914A89
+color.red,Prism Ruby,#E61C65
+color.blue,Prism Sapphire,#1557BA
+color.grey,Prism Silver,#C4C4C4
+color.blue,Prism Teal,#088787
+color.yellow,Prism Topaz,#FFCB81
+color.purple,Prism Violet,#950CFF
 color.purple,Prune,#701C1C
 color.blue,Prussian Blue,#003153
 color.purple,Psychedelic Purple,#DF00FF
@@ -1919,6 +2257,32 @@ color.purple,Purple Plum,#9C51B6
 color.purple,Purpureus,#9A4EAE
 color.brown,Putty,#D4C4A8
 color.green,Python,#596144
+color.purple,Quantum Amethyst,#8C59BA
+color.blue,Quantum Azure,#0070E6
+color.brown,Quantum Bronze,#BA732D
+color.brown,Quantum Copper,#A8692E
+color.red,Quantum Crimson,#C2103B
+color.blue,Quantum Cyan,#00E6E6
+color.green,Quantum Emerald,#4AB56F
+color.red,Quantum Garnet,#693130
+color.yellow,Quantum Gold,#E6C200
+color.purple,Quantum Indigo,#44007A
+color.green,Quantum Jade,#009961
+color.green,Quantum Lime,#AEE600
+color.purple,Quantum Magenta,#E600E6
+color.green,Quantum Mint,#39A37C
+color.blue,Quantum Navy,#00007A
+color.green,Quantum Olive,#7A7A00
+color.black,Quantum Onyx,#313334
+color.orange,Quantum Peach,#E6CEA3
+color.white,Quantum Pearl,#D4C9B4
+color.purple,Quantum Plum,#823E7A
+color.red,Quantum Ruby,#C90F57
+color.blue,Quantum Sapphire,#0D4A9E
+color.grey,Quantum Silver,#ADADAD
+color.blue,Quantum Teal,#007A7A
+color.yellow,Quantum Topaz,#E6B570
+color.purple,Quantum Violet,#8200E6
 color.grey,Quartz Gray,#88898C
 color.blue,Queen Blue,#436B95
 color.pink,Queen Pink,#E8CCD7
@@ -2069,6 +2433,32 @@ color.blue,Star Command Blue,#007BB8
 color.grey,Steel,#7A858A
 color.blue,Steel Blue,#4682B4
 color.pink,Steel Pink,#CC33CC
+color.purple,Stellar Amethyst,#AB80D6
+color.blue,Stellar Azure,#268CFF
+color.brown,Stellar Bronze,#D69956
+color.brown,Stellar Copper,#C28C56
+color.red,Stellar Crimson,#DB375F
+color.blue,Stellar Cyan,#26FFFF
+color.green,Stellar Emerald,#67D18B
+color.red,Stellar Garnet,#804B4B
+color.yellow,Stellar Gold,#FFDF26
+color.purple,Stellar Indigo,#5D1A99
+color.green,Stellar Jade,#26B580
+color.green,Stellar Lime,#C9FF26
+color.purple,Stellar Magenta,#FF26FF
+color.green,Stellar Mint,#57C29C
+color.blue,Stellar Navy,#1A1A99
+color.green,Stellar Olive,#8C8C1A
+color.black,Stellar Onyx,#444748
+color.orange,Stellar Peach,#FFECB3
+color.white,Stellar Pearl,#F0E8D1
+color.purple,Stellar Plum,#9C5C94
+color.red,Stellar Ruby,#E63777
+color.blue,Stellar Sapphire,#2A68C7
+color.grey,Stellar Silver,#C9C9C9
+color.blue,Stellar Teal,#1A8C8C
+color.yellow,Stellar Topaz,#FFD494
+color.purple,Stellar Violet,#9F26FF
 color.yellow,Stil de Grain Yellow,#FADA5E
 color.red,Stizza,#990000
 color.grey,Stone,#898B88
@@ -2164,6 +2554,32 @@ color.orange,Vivid Tangerine,#FFA089
 color.purple,Vivid Violet,#9F00FF
 color.grey,Volcanic Ash,#5C5F60
 color.green,Volt,#CEFF00
+color.purple,Vortex Amethyst,#7D4C9E
+color.blue,Vortex Azure,#0060C2
+color.brown,Vortex Bronze,#9E6226
+color.brown,Vortex Copper,#8F5927
+color.red,Vortex Crimson,#A30D32
+color.blue,Vortex Cyan,#00C2C2
+color.green,Vortex Emerald,#3D995C
+color.red,Vortex Garnet,#592928
+color.yellow,Vortex Gold,#C2A300
+color.purple,Vortex Indigo,#390066
+color.green,Vortex Jade,#008052
+color.green,Vortex Lime,#93C200
+color.purple,Vortex Magenta,#C200C2
+color.green,Vortex Mint,#308A68
+color.blue,Vortex Navy,#000066
+color.green,Vortex Olive,#666600
+color.black,Vortex Onyx,#282A2B
+color.orange,Vortex Peach,#C2AE8A
+color.white,Vortex Pearl,#B3AA98
+color.purple,Vortex Plum,#6E3566
+color.red,Vortex Ruby,#AA0C49
+color.blue,Vortex Sapphire,#0B3E85
+color.grey,Vortex Silver,#919191
+color.blue,Vortex Teal,#006666
+color.yellow,Vortex Topaz,#C2985E
+color.purple,Vortex Violet,#6E00C2
 color.green,Wageningen Green,#34B233
 color.brown,Walnut Wood,#583F2E
 color.black,Warm Black,#004242
@@ -2197,6 +2613,32 @@ color.green,Yellow Green,#9ACD32
 color.orange,Yellow Orange,#FFAE42
 color.blue,YInMn Blue,#2E5090
 color.blue,Zaffre,#0014A8
+color.purple,Zenith Amethyst,#9966CC
+color.blue,Zenith Azure,#007FFF
 color.blue,Zenith Blue,#336C9E
+color.brown,Zenith Bronze,#CD7F32
+color.brown,Zenith Copper,#B87333
+color.red,Zenith Crimson,#D11141
+color.blue,Zenith Cyan,#00FFFF
+color.green,Zenith Emerald,#50C878
+color.red,Zenith Garnet,#733635
+color.yellow,Zenith Gold,#FFD700
+color.purple,Zenith Indigo,#4B0082
+color.green,Zenith Jade,#00A86B
+color.green,Zenith Lime,#BFFF00
+color.purple,Zenith Magenta,#FF00FF
+color.green,Zenith Mint,#3EB489
+color.blue,Zenith Navy,#000080
+color.green,Zenith Olive,#808000
+color.black,Zenith Onyx,#353839
+color.orange,Zenith Peach,#FFE5B4
+color.white,Zenith Pearl,#EAE0C8
+color.purple,Zenith Plum,#8E4585
+color.red,Zenith Ruby,#E0115F
+color.blue,Zenith Sapphire,#0F52BA
+color.grey,Zenith Silver,#C0C0C0
+color.blue,Zenith Teal,#008080
+color.yellow,Zenith Topaz,#FFC87C
+color.purple,Zenith Violet,#8F00FF
 color.brown,Zinnwaldite Brown,#2C1608
 color.green,Zomp,#39A78E
