@@ -602,7 +602,7 @@ Date,Platform,Category,Activity_Name,Streak,Duration_Min,Status
 2026-06-07,Kaggle,Data Science,Explore and Update Datasets,37,2,Completed
 2026-06-07,MonkeyType,Typing Proficiency,Speed Typing Training and Test,37,7,Success
 2026-06-08,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,602,6,Completed
-2026-06-08,Mimo,Full-Stack Development,Setting Size With Percentages,77,5,Completed
+2026-06-08,Mimo,Full-Stack Development,Adding Color with Hex Values,77,5,Completed
 2026-06-08,TryHackMe,Cybersecurity,Content Discovery,77,9,Completed
 2026-06-08,Khan Academy,STEM Education,Junior Grade Math Review,38,4,In-Progress
 2026-06-08,Brilliant.org,Problem Solving,Branch-and-Nest-Tap-2,38,4,Completed
@@ -612,3 +612,14 @@ Date,Platform,Category,Activity_Name,Streak,Duration_Min,Status
 2026-06-08,HuggingFace,Machine Learning Ops,Update and Explore Datasets,77,7,Success
 2026-06-08,Kaggle,Data Science,Explore and Update Datasets,38,4,Completed
 2026-06-08,MonkeyType,Typing Proficiency,Speed Typing Training and Test,38,6,Success
+2026-06-09,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,603,6,Completed
+2026-06-09,Mimo,Full-Stack Development,Setting Size With Percentages,78,4,Completed
+2026-06-09,TryHackMe,Cybersecurity,Introduction to OWASP ZAP,78,8,In-Progress
+2026-06-09,Khan Academy,STEM Education,Junior Grade Math Review,39,3,In-Progress
+2026-06-09,Brilliant.org,Problem Solving,Branch-and-Nest-Tap-3,39,3,Completed
+2026-06-09,Daily.dev,Articles & News,Explore and Read Articles,13,22,Completed
+2026-06-09,GitHub,DevOps & Version Control,Repository Update,78,24,Success
+2026-06-09,LeetCode,Data Structures & Algorithms,Maximum Total Subarray Value I,39,19,Solved
+2026-06-09,HuggingFace,Machine Learning Ops,Update and Explore Datasets,78,8,Success
+2026-06-09,Kaggle,Data Science,Explore and Update Datasets,39,5,Completed
+2026-06-09,MonkeyType,Typing Proficiency,Speed Typing Training and Test,39,9,Success
