@@ -15,6 +15,8 @@ graph TD
     B --> E[Arabian Dataset]
     B --> F[Color Palettes Dataset]
     B --> G[Daily Streak]
+    B --> H[Modern-Names]
+    B --> I[Medieval-Names]
 
 ```
 
