@@ -17,6 +17,9 @@ graph TD
     B --> G[Daily Streak]
     B --> H[Modern-Names]
     B --> I[Medieval-Names]
+    B --> J[Anime Characters]
+    B --> K[Anime Names]
+    B --> L[Persona Profiles]
 
 ```
 
