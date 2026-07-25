@@ -1,12 +1,23 @@
-Date,Platform,Category,Activity_Name,Streak,Duration_Minutes,Status
-2026-07-24,Brilliant.org,Problem Solving,Complex Branching,83,4,In-Progress
-2026-07-24,Daily.dev,Articles & News,Explore and Read Articles,2,17,Completed
-2026-07-24,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,645,4,Completed
-2026-07-24,GitHub,DevOps & Version Control,Repository Update,1,19,Completed
-2026-07-24,HuggingFace,Machine Learning Ops,Update and Explore Datasets,1,10,Completed
-2026-07-24,Kaggle,Data Science,Explore and Update Datasets,84,6,Completed
-2026-07-24,Khan Academy,STEM Education,Junior Grade Math Review,84,7,In-Progress
-2026-07-24,LeetCode,Data Structures & Algorithms,Number of Unique XOR Triplets II,2,18,Completed
-2026-07-24,Mimo,Full-Stack Development,The Grid Container,123,6,Completed
-2026-07-24,MonkeyType,Typing Proficiency,Speed Typing Training and Test,2,4,Completed
-2026-07-24,TryHackMe,Cybersecurity,Advanced SQL Injection,120,11,In-Progress
+date,platform,category,activity_name,streak,duration_minutes,status
+2026-07-24,Brilliant.org,Problem Solving,Complex Branching,83,4,in_progress
+2026-07-24,Daily.dev,Articles & News,Explore and Read Articles,2,17,completed
+2026-07-24,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,645,4,completed
+2026-07-24,GitHub,DevOps & Version Control,Repository Update,1,19,completed
+2026-07-24,HuggingFace,Machine Learning Ops,Update and Explore Datasets,1,10,completed
+2026-07-24,Kaggle,Data Science,Explore and Update Datasets,84,6,completed
+2026-07-24,Khan Academy,STEM Education,Junior Grade Math Review,84,7,in_progress
+2026-07-24,LeetCode,Data Structures & Algorithms,Number of Unique XOR Triplets II,2,18,completed
+2026-07-24,Mimo,Full-Stack Development,The Grid Container,123,6,completed
+2026-07-24,MonkeyType,Typing Proficiency,Speed Typing Training and Test,2,4,completed
+2026-07-24,TryHackMe,Cybersecurity,Advanced SQL Injection,120,11,in_progress
+2026-07-25,Brilliant.org,Problem Solving,Complex Branching,84,5,completed
+2026-07-25,Daily.dev,Articles & News,Explore and Read Articles,3,15,completed
+2026-07-25,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,646,3,completed
+2026-07-25,GitHub,DevOps & Version Control,Repository Update,2,14,completed
+2026-07-25,HuggingFace,Machine Learning Ops,Update and Explore Datasets,2,8,completed
+2026-07-25,Kaggle,Data Science,Explore and Update Datasets,85,8,completed
+2026-07-25,Khan Academy,STEM Education,Junior Grade Math Review,85,6,completed
+2026-07-25,LeetCode,Data Structures & Algorithms,Maximum Product of Two Digits,3,19,completed
+2026-07-25,Mimo,Full-Stack Development,Grid Columns and Repeat,124,4,completed
+2026-07-25,MonkeyType,Typing Proficiency,Speed Typing Training and Test,3,5,completed
+2026-07-25,TryHackMe,Cybersecurity,Advanced SQL Injection,121,13,completed
