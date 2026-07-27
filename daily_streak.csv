@@ -21,7 +21,7 @@ date,platform,category,activity_name,streak,duration_minutes,status
 2026-07-25,Mimo,Full-Stack Development,Grid Columns and Repeat,124,4,completed
 2026-07-25,MonkeyType,Typing Proficiency,Speed Typing Training and Test,3,5,completed
 2026-07-25,TryHackMe,Cybersecurity,Advanced SQL Injection,121,13,completed
-2026-07-26,Brilliant.org,Problem Solving,Complex Logic,85,4,in_progress
+2026-07-26,Brilliant.org,Problem Solving,Complex Logic,85,4,completed
 2026-07-26,Daily.dev,Articles & News,Explore and Read Articles,4,15,completed
 2026-07-26,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,647,5,completed
 2026-07-26,GitHub,DevOps & Version Control,Repository Update,3,11,completed
@@ -32,3 +32,14 @@ date,platform,category,activity_name,streak,duration_minutes,status
 2026-07-26,Mimo,Full-Stack Development,Grid Rows,125,5,completed
 2026-07-26,MonkeyType,Typing Proficiency,Speed Typing Training and Test,4,4,completed
 2026-07-26,TryHackMe,Cybersecurity,Offensive Security Intro,122,14,completed
+2026-07-27,Brilliant.org,Problem Solving,Complex Logic,86,5,completed
+2026-07-27,Daily.dev,Articles & News,Explore and Read Articles,5,6,completed
+2026-07-27,Duolingo,Linguistics,Japanese Fundamentals: Hiragana,648,5,completed
+2026-07-27,GitHub,DevOps & Version Control,Repository Update,4,19,completed
+2026-07-27,HuggingFace,Machine Learning Ops,Update and Explore Datasets,4,10,completed
+2026-07-27,Kaggle,Data Science,Explore and Update Datasets,2,6,completed
+2026-07-27,Khan Academy,STEM Education,Junior Grade Math Review,87,7,completed
+2026-07-27,LeetCode,Data Structures & Algorithms,Maximum Product of Two Elements in an Array,5,19,completed
+2026-07-27,Mimo,Full-Stack Development,Grid Rows,126,6,completed
+2026-07-27,MonkeyType,Typing Proficiency,Speed Typing Training and Test,5,5,completed
+2026-07-27,TryHackMe,Cybersecurity,Offensive Security Intro,123,6,completed
